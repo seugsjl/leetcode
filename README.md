@@ -12,13 +12,13 @@ LC190.cpp
 LC191.cpp
 LC202.cpp
 #JAVA
-LJ001.java	commit 2	21 days ago
-LJ004.java	commit 2	21 days ago
-LJ020.java	commit 2	21 days ago
-LJ029.java	commit 2	21 days ago
-LJ042.java	commit 2	21 days ago
-LJ046.java	commit 2	21 days ago
-LJ069.java	commit 2	21 days ago
+LJ001.java
+LJ004.java
+LJ020.java
+LJ029.java
+LJ042.java
+LJ046.java
+LJ069.java
 LJ078.java	commit 2	21 days ago
 LJ100.java	commit 2	21 days ago
 LJ106.java	commit 2	21 days ago
