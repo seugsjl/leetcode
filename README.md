@@ -204,9 +204,9 @@ LeetCode
 |20|[Valid Parentheses](https://oj.leetcode.com/problems/valid-parentheses/)| [C++](./algorithms/validParentheses/validParentheses.cpp)|Easy|
 |19|[Remove Nth Node From End of List](https://oj.leetcode.com/problems/remove-nth-node-from-end-of-list/)| [C++](./algorithms/removeNthNodeFromEndOfList/removeNthNodeFromEndOfList.cpp)|Easy|
 |18|[Letter Combinations of a Phone Number](https://oj.leetcode.com/problems/letter-combinations-of-a-phone-number/)| [C++](./algorithms/letterCombinationsOfAPhoneNumber/letterCombinationsOfAPhoneNumber.cpp)|Medium|
-|17|[4Sum](https://oj.leetcode.com/problems/4sum/)| [C++](./algorithms/4Sum/4Sum.cpp)|Medium|
-|16|[3Sum Closest](https://oj.leetcode.com/problems/3sum-closest/)| [C++](./algorithms/3SumClosest/3SumClosest.cpp)|Medium|
-|15|[3Sum](https://oj.leetcode.com/problems/3sum/)| [C++](./algorithms/3Sum/3Sum.cpp)|Medium|
+|17|[4Sum](https://oj.leetcode.com/problems/4sum/)| [JAVA](./algorithms/4Sum/4Sum.java)|Medium|
+|16|[3Sum Closest](https://oj.leetcode.com/problems/3sum-closest/)| [C++](./algorithms/xSum/3SumClosest.cpp)|Medium|
+|15|[3Sum](https://oj.leetcode.com/problems/3sum/)| [JAVA](./algorithms/xSum/3Sum.java)|Medium|
 |14|[Longest Common Prefix](https://oj.leetcode.com/problems/longest-common-prefix/)| [C++](./algorithms/longestCommonPrefix/longestCommonPrefix.cpp)|Easy|
 |13|[Roman to Integer](https://oj.leetcode.com/problems/roman-to-integer/)| [C++](./algorithms/romanToInteger/romanToInteger.cpp)|Easy|
 |12|[Integer to Roman](https://oj.leetcode.com/problems/integer-to-roman/)| [C++](./algorithms/integerToRoman/integerToRoman.cpp)|Medium|
