@@ -3,7 +3,7 @@ LeetCode
 
 ###LeetCode Algorithm
 
-(Notes: "&hearts;" means need buy a book from Leetcode)
+(Notes: "&books;" means need buy a book from Leetcode)
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
