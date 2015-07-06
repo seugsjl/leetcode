@@ -19,7 +19,7 @@ LeetCode
 |205|[Maximal Square](https://leetcode.com/problems/maximal-square/)| [C++](./algorithms/maximalSquare/MaximalSquare.cpp)|Medium|
 |204|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)| [C++](./algorithms/containsDuplicate/ContainsDuplicate.III.cpp)|Medium|
 |203|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)| [C++](./algorithms/containsDuplicate/ContainsDuplicate.II.cpp)|Easy|
-|202|[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)| [C++](./algorithms/theSkylineProblem/TheSkylineProblem.cpp)|Hard|
+|218|[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)| [JAVA](./algorithms/heap/TheSkylineProblem.java)|Hard|
 |201|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)| [C++](./algorithms/containsDuplicate/ContainsDuplicate.cpp)|Easy|
 |200|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)| [C++](./algorithms/combinationSum/combinationSum.III.cpp)|Medium|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)| [JAVA](./algorithms/KthLargestElementInAnArray/KthLargestElement_QuickSort.java)|Medium|
@@ -199,7 +199,7 @@ LeetCode
 |25|[Remove Duplicates from Sorted Array](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array/)| [C++](./algorithms/removeDuplicatesFromSortedArray/removeDuplicatesFromSortedArray.cpp)|Easy|
 |24|[Reverse Nodes in k-Group](https://oj.leetcode.com/problems/reverse-nodes-in-k-group/)| [C++](./algorithms/reverseNodesInKGroup/reverseNodesInKGroup.cpp)|Hard|
 |23|[Swap Nodes in Pairs](https://oj.leetcode.com/problems/swap-nodes-in-pairs/)| [C++](./algorithms/swapNodesInPairs/swapNodesInPairs.cpp)|Medium|
-|22|[Merge k Sorted Lists](https://oj.leetcode.com/problems/merge-k-sorted-lists/)| [C++](./algorithms/mergeKSortedLists/mergeKSortedLists.cpp)|Hard|
+|23|[Merge k Sorted Lists](https://oj.leetcode.com/problems/merge-k-sorted-lists/)| [C++](./algorithms/heap/MergekSortedLists.cpp)|Hard|
 |21|[Generate Parentheses](https://oj.leetcode.com/problems/generate-parentheses/)| [C++](./algorithms/generateParentheses/generateParentheses.cpp)|Medium|
 |20|[Valid Parentheses](https://oj.leetcode.com/problems/valid-parentheses/)| [C++](./algorithms/validParentheses/validParentheses.cpp)|Easy|
 |19|[Remove Nth Node From End of List](https://oj.leetcode.com/problems/remove-nth-node-from-end-of-list/)| [C++](./algorithms/removeNthNodeFromEndOfList/removeNthNodeFromEndOfList.cpp)|Easy|
