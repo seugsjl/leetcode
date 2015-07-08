@@ -58,9 +58,9 @@ LeetCode
 |166|[Fraction to Recurring Decimal](https://oj.leetcode.com/problems/fraction-to-recurring-decimal/) | [C++](./algorithms/fractionToRecurringDecimal/fractionToRecurringDecimal.cpp)|Medium|
 |165|[Compare Version Numbers](https://oj.leetcode.com/problems/compare-version-numbers/) | [C++](./algorithms/compareVersionNumbers/compareVersionNumbers.cpp)|Easy|
 |164|[Maximum Gap](https://oj.leetcode.com/problems/maximum-gap/) | [C++](./algorithms/maximumGap/maximumGap.cpp)|Hard|
-|163|[Missing Ranges](https://oj.leetcode.com/problems/missing-ranges/) &hearts; |
+|163|[Missing Ranges](https://oj.leetcode.com/problems/missing-ranges/) &hearts; ||Medium||
 |162|[Find Peak Element](https://oj.leetcode.com/problems/find-peak-element/) | [C++](./algorithms/findPeakElement/findPeakElement.cpp)|Medium|
-|161|[One Edit Distance](https://oj.leetcode.com/problems/one-edit-distance/)&hearts; |||
+|161|[One Edit Distance](https://oj.leetcode.com/problems/one-edit-distance/)&hearts; ||Medium|
 |160|[Intersection of Two Linked Lists](https://oj.leetcode.com/problems/intersection-of-two-linked-lists/) | [C++](./algorithms/intersectionOfTwoLinkedLists/intersectionOfTwoLinkedLists.cpp)|Easy|
 |159|[Longest Substring with At Most Two Distinct Characters](https://oj.leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) &hearts; | |Hard|
 |158|[Read N Characters Given Read4 II - Call multiple times](https://oj.leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/) &hearts; | |Hard|
@@ -92,7 +92,7 @@ LeetCode
 |132|[Palindrome Partitioning II](https://oj.leetcode.com/problems/palindrome-partitioning-ii/)| [C++](./algorithms/palindromePartitioning/palindromePartitioning.II.cpp)|Hard|
 |131|[Palindrome Partitioning](https://oj.leetcode.com/problems/palindrome-partitioning/)| [C++](./algorithms/palindromePartitioning/palindromePartitioning.cpp)|Medium|
 |130|[Surrounded Regions](https://oj.leetcode.com/problems/surrounded-regions/)| [C++](./algorithms/surroundedRegions/surroundedRegions.cpp)|Medium|
-|129|[Sum Root to Leaf Numbers](https://oj.leetcode.com/problems/sum-root-to-leaf-numbers/)| [C++](./algorithms/sumRootToLeafNumber/sumRootToLeafNumber.cpp)|Medium|
+|129|[Sum Root to Leaf Numbers](https://oj.leetcode.com/problems/sum-root-to-leaf-numbers/)| [JAVA](./algorithms/BinaryTree/SumRoottoLeafNumbers.java)|Medium|Tree|
 |128|[Longest Consecutive Sequence](https://oj.leetcode.com/problems/longest-consecutive-sequence/)| [C++](./algorithms/longestConsecutiveSequence/longestConsecutiveSequence.cpp)|Hard|
 |127|[Word Ladder II](https://oj.leetcode.com/problems/word-ladder-ii/)| [C++](./algorithms/wordLadder/wordLadder.II.cpp)|Hard|
 |126|[Word Ladder](https://oj.leetcode.com/problems/word-ladder/)| [C++](./algorithms/wordLadder/wordLadder.cpp)|Medium|
@@ -104,8 +104,8 @@ LeetCode
 |120|[Triangle](https://oj.leetcode.com/problems/triangle/)| [C++](./algorithms/triangle/triangle.cpp)|Medium|
 |119|[Pascal's Triangle II](https://oj.leetcode.com/problems/pascals-triangle-ii/)| [C++](./algorithms/pascalTriangle/pascalTriangle.II.cpp)|Easy|
 |118|[Pascal's Triangle](https://oj.leetcode.com/problems/pascals-triangle/)| [C++](./algorithms/pascalTriangle/pascalTriangle.cpp)|Easy|
-|117|[Populating Next Right Pointers in Each Node II](https://oj.leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)| [C++](./algorithms/populatingNextRightPointersInEachNode/populatingNextRightPointersInEachNode.II.cpp)|Hard|
-|116|[Populating Next Right Pointers in Each Node](https://oj.leetcode.com/problems/populating-next-right-pointers-in-each-node/)| [C++](./algorithms/populatingNextRightPointersInEachNode/populatingNextRightPointersInEachNode.cpp)|Medium|
+|117|[Populating Next Right Pointers in Each Node II](https://oj.leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)| [JAVA](./algorithms/BinaryTree/PopulatingNextRightPointersinEachNodeII.java)|Hard|Tree|
+|116|[Populating Next Right Pointers in Each Node](https://oj.leetcode.com/problems/populating-next-right-pointers-in-each-node/)| [JAVA](./algorithms/BinaryTree/PopulatingNextRightPointersinEachNode.java)|Medium|Tree|
 |115|[Distinct Subsequences](https://oj.leetcode.com/problems/distinct-subsequences/)| [C++](./algorithms/distinctSubsequences/distinctSubsequences.cpp)|Hard|
 |114|[Flatten Binary Tree to Linked List](https://oj.leetcode.com/problems/flatten-binary-tree-to-linked-list/)| [C++](./algorithms/flattenBinaryTreeToLinkedList/flattenBinaryTreeToLinkedList.cpp)|Medium|
 |113|[Path Sum II](https://oj.leetcode.com/problems/path-sum-ii/)| [C++](./algorithms/pathSum/pathSum.II.cpp)|Medium|
@@ -120,13 +120,13 @@ LeetCode
 |104|[Maximum Depth of Binary Tree](https://oj.leetcode.com/problems/maximum-depth-of-binary-tree/)| [C++](./algorithms/maximumDepthOfBinaryTree/maximumDepthOfBinaryTree.cpp)|Easy|
 |103|[Binary Tree Zigzag Level Order Traversal](https://oj.leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)| [C++](./algorithms/binaryTreeZigzagLevelOrderTraversal/binaryTreeZigzagLevelOrderTraversal.cpp)|Medium|
 |102|[Binary Tree Level Order Traversal](https://oj.leetcode.com/problems/binary-tree-level-order-traversal/)| [JAVA](./algorithms/BinaryTree/TraversalLevelOrder.java)|Easy|
-|101|[Symmetric Tree](https://oj.leetcode.com/problems/symmetric-tree/)| [C++](./algorithms/symmetricTree/symmetricTree.cpp)|Easy|
-|100|[Same Tree](https://oj.leetcode.com/problems/same-tree/)| [C++](./algorithms/sameTree/sameTree.cpp)|Easy|
-|99|[Recover Binary Search Tree](https://oj.leetcode.com/problems/recover-binary-search-tree/)| [C++](./algorithms/recoverBinarySearchTree/recoverBinarySearchTree.cpp)|Hard|
-|98|[Validate Binary Search Tree](https://oj.leetcode.com/problems/validate-binary-search-tree/)| [C++](./algorithms/validateBinarySearchTree/validateBinarySearchTree.cpp)|Medium|
+|101|[Symmetric Tree](https://oj.leetcode.com/problems/symmetric-tree/)| [C++](./algorithms/BinaryTree/TreeSymmetric.cpp)/[JAVA](./algorithms/BinaryTree/TreeSymmetric.java)|Easy|
+|100|[Same Tree](https://oj.leetcode.com/problems/same-tree/)| [JAVA](./algorithms/BinaryTree/TreeSame.java)|Easy|Tree|
+|99|[Recover Binary Search Tree](https://oj.leetcode.com/problems/recover-binary-search-tree/)| [JAVA](./algorithms/BinaryTree/BinarySearchTreeRecover.java)|Hard|BST|
+|98|[Validate Binary Search Tree](https://oj.leetcode.com/problems/validate-binary-search-tree/)| [JAVA](./algorithms/BinaryTree/BinarySearchTreeValidate.java)|Medium|BST|
 |97|[Interleaving String](https://oj.leetcode.com/problems/interleaving-string/)| [C++](./algorithms/interleavingString/interleavingString.cpp)|Hard|
-|96|[Unique Binary Search Trees II](https://oj.leetcode.com/problems/unique-binary-search-trees-ii/)| [C++](./algorithms/uniqueBinarySearchTrees/uniqueBinarySearchTrees.II.cpp)|Medium|
-|95|[Unique Binary Search Trees](https://oj.leetcode.com/problems/unique-binary-search-trees/)| [C++](./algorithms/uniqueBinarySearchTrees/uniqueBinarySearchTrees.cpp)|Medium|
+|96|[Unique Binary Search Trees II](https://oj.leetcode.com/problems/unique-binary-search-trees-ii/)| [JAVA](./algorithms/BinaryTree/BinarySearchTreeUniqueII.java)|Medium|BST|
+|95|[Unique Binary Search Trees](https://oj.leetcode.com/problems/unique-binary-search-trees/)| [JAVA](./algorithms/BinaryTree/BinarySearchTreeUnique.java)|Medium|BST|
 |94|[Binary Tree Inorder Traversal](https://oj.leetcode.com/problems/binary-tree-inorder-traversal/)| [JAVA](./algorithms/BinaryTree/TraversalInorder.java)|Medium|
 |93|[Restore IP Addresses](https://oj.leetcode.com/problems/restore-ip-addresses/)| [C++](./algorithms/restoreIPAddresses/restoreIPAddresses.cpp)|Medium|
 |92|[Reverse Linked List II](https://oj.leetcode.com/problems/reverse-linked-list-ii/)| [C++](./algorithms/reverseLinkedList/reverseLinkedList.II.cpp)|Medium|
