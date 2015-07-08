@@ -3,7 +3,7 @@ LeetCode
 
 ###LeetCode Algorithm
 
-(Notes: "&books;" means need buy a book from Leetcode)
+(Notes: "&hearts;" means need buy a book from Leetcode)
 
 | # | Title | Solution | Difficulty |Tag|
 |---| ----- | -------- | ---------- |---|
@@ -58,7 +58,7 @@ LeetCode
 |166|[Fraction to Recurring Decimal](https://oj.leetcode.com/problems/fraction-to-recurring-decimal/) | [C++](./algorithms/fractionToRecurringDecimal/fractionToRecurringDecimal.cpp)|Medium|
 |165|[Compare Version Numbers](https://oj.leetcode.com/problems/compare-version-numbers/) | [C++](./algorithms/compareVersionNumbers/compareVersionNumbers.cpp)|Easy|
 |164|[Maximum Gap](https://oj.leetcode.com/problems/maximum-gap/) | [C++](./algorithms/maximumGap/maximumGap.cpp)|Hard|
-|163|[Missing Ranges](https://oj.leetcode.com/problems/missing-ranges/) &hearts; | [C++](./algorithms/missingRanges/missingRanges.cpp)|Medium|
+|163|[Missing Ranges](https://oj.leetcode.com/problems/missing-ranges/) &hearts; |
 |162|[Find Peak Element](https://oj.leetcode.com/problems/find-peak-element/) | [C++](./algorithms/findPeakElement/findPeakElement.cpp)|Medium|
 |161|[One Edit Distance](https://oj.leetcode.com/problems/one-edit-distance/)&hearts; | [C++](./algorithms/oneEditDistance/oneEditDistance.cpp)|Medium|
 |160|[Intersection of Two Linked Lists](https://oj.leetcode.com/problems/intersection-of-two-linked-lists/) | [C++](./algorithms/intersectionOfTwoLinkedLists/intersectionOfTwoLinkedLists.cpp)|Easy|
@@ -114,7 +114,7 @@ LeetCode
 |110|[Balanced Binary Tree](https://oj.leetcode.com/problems/balanced-binary-tree/)| [JAVA](./algorithms/BinaryTree/BalancedBinaryTree.java)|Easy|
 |109|[Convert Sorted List to Binary Search Tree](https://oj.leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)| [C++](./algorithms/convertSortedListToBinarySearchTree/convertSortedListToBinarySearchTree.cpp)|Medium|
 |108|[Convert Sorted Array to Binary Search Tree](https://oj.leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)| [C++](./algorithms/convertSortedArrayToBinarySearchTree/convertSortedArrayToBinarySearchTree.cpp)|Medium|
-|107|[Binary Tree Level Order Traversal II](https://oj.leetcode.com/problems/binary-tree-level-order-traversal-ii/)| [C++](./algorithms/binaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.II.cpp)|Easy|
+|107|[Binary Tree Level Order Traversal II](https://oj.leetcode.com/problems/binary-tree-level-order-traversal-ii/)| [JAVA](./algorithms/BinaryTree/TraversalLevelOrderII.JAVA)|Easy|
 |106|[Construct Binary Tree from Inorder and Postorder Traversal](https://oj.leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)| [C++](./algorithms/constructBinaryTreeFromInorderAndPostorderTraversal/constructBinaryTreeFromInorderAndPostorderTraversal.cpp)|Medium|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://oj.leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)| [C++](./algorithms/constructBinaryTreeFromPreorderAndInorderTraversal/constructBinaryTreeFromPreorderAndInorderTraversal.cpp)|Medium|
 |104|[Maximum Depth of Binary Tree](https://oj.leetcode.com/problems/maximum-depth-of-binary-tree/)| [C++](./algorithms/maximumDepthOfBinaryTree/maximumDepthOfBinaryTree.cpp)|Easy|
