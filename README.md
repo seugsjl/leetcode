@@ -45,27 +45,27 @@ LeetCode
 |179|[Rotate Array](https://oj.leetcode.com/problems/rotate-array/)| [C++](./algorithms/rotateArray/rotateArray.cpp)|Easy|
 |178|[Best Time to Buy and Sell Stock IV](https://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)| [C++](./algorithms/bestTimeToBuyAndSellStock/bestTimeToBuyAndSellStock.IV.cpp)|Hard|
 |177|[Repeated DNA Sequences](https://oj.leetcode.com/problems/repeated-dna-sequences/)| [C++](./algorithms/repeatedDNASequences/repeatedDNASequences.cpp)|Medium|
-|176|[Reverse Words in a String II](https://oj.leetcode.com/problems/reverse-words-in-a-string-ii/) &hearts; | [C++](./algorithms/reverseWordsInAString/reverseWordsInAString.II.cpp)|Medium|
+|176|[Reverse Words in a String II](https://oj.leetcode.com/problems/reverse-words-in-a-string-ii/) &hearts; | |Medium|
 |175|[Largest Number](https://oj.leetcode.com/problems/largest-number/) | [C++](./algorithms/largestNumber/largestNumber.cpp)|Medium|
 |174|[Dungeon Game](https://oj.leetcode.com/problems/dungeon-game/) | [C++](./algorithms/dungeonGame/dungeonGame.cpp)|Hard|
 |173|[Binary Search Tree Iterator](https://oj.leetcode.com/problems/binary-search-tree-iterator/) | [C++](./algorithms/binarySearchTreeIterator/binarySearchTreeIterator.cpp)|Medium|
 |172|[Factorial Trailing Zeroes](https://oj.leetcode.com/problems/factorial-trailing-zeroes/) | [C++](./algorithms/factorialTrailingZeroes/factorialTrailingZeroes.cpp)|Easy|
 |171|[Excel Sheet Column Number](https://oj.leetcode.com/problems/excel-sheet-column-number/) | [C++](./algorithms/excelSheetColumnNumber/excelSheetColumnNumber.cpp)|Easy|
-|170|[Two Sum III - Data structure design](https://oj.leetcode.com/problems/two-sum-iii-data-structure-design/) &hearts; | [C++](./algorithms/twoSum/twoSum.III.cpp)|Easy|
+|170|[Two Sum III - Data structure design](https://oj.leetcode.com/problems/two-sum-iii-data-structure-design/) &hearts; | |Easy|
 |169|[Majority Element](https://oj.leetcode.com/problems/majority-element/) | [C++](./algorithms/majorityElement/majorityElement.cpp)|Easy|
 |168|[Excel Sheet Column Title](https://oj.leetcode.com/problems/excel-sheet-column-title/) | [C++](./algorithms/excelSheetColumnTitle/excelSheetColumnTitle.cpp)|Easy|
-|167|[Two Sum II - Input array is sorted](https://oj.leetcode.com/problems/two-sum-ii-input-array-is-sorted/) &hearts; | [C++](./algorithms/twoSum/twoSum.II.cpp)|Medium|
+|167|[Two Sum II - Input array is sorted](https://oj.leetcode.com/problems/two-sum-ii-input-array-is-sorted/) &hearts; | |Medium|
 |166|[Fraction to Recurring Decimal](https://oj.leetcode.com/problems/fraction-to-recurring-decimal/) | [C++](./algorithms/fractionToRecurringDecimal/fractionToRecurringDecimal.cpp)|Medium|
 |165|[Compare Version Numbers](https://oj.leetcode.com/problems/compare-version-numbers/) | [C++](./algorithms/compareVersionNumbers/compareVersionNumbers.cpp)|Easy|
 |164|[Maximum Gap](https://oj.leetcode.com/problems/maximum-gap/) | [C++](./algorithms/maximumGap/maximumGap.cpp)|Hard|
 |163|[Missing Ranges](https://oj.leetcode.com/problems/missing-ranges/) &hearts; |
 |162|[Find Peak Element](https://oj.leetcode.com/problems/find-peak-element/) | [C++](./algorithms/findPeakElement/findPeakElement.cpp)|Medium|
-|161|[One Edit Distance](https://oj.leetcode.com/problems/one-edit-distance/)&hearts; | [C++](./algorithms/oneEditDistance/oneEditDistance.cpp)|Medium|
+|161|[One Edit Distance](https://oj.leetcode.com/problems/one-edit-distance/)&hearts; |||
 |160|[Intersection of Two Linked Lists](https://oj.leetcode.com/problems/intersection-of-two-linked-lists/) | [C++](./algorithms/intersectionOfTwoLinkedLists/intersectionOfTwoLinkedLists.cpp)|Easy|
-|159|[Longest Substring with At Most Two Distinct Characters](https://oj.leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) &hearts; | [C++](./algorithms/longestSubstringWithAtMostTwoDistinctCharacters/longestSubstringWithAtMostTwoDistinctCharacters.cpp)|Hard|
-|158|[Read N Characters Given Read4 II - Call multiple times](https://oj.leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/) &hearts; | [C++](./algorithms/readNCharactersGivenRead4/readNCharactersGivenRead4.II.cpp)|Hard|
-|157|[Read N Characters Given Read4](https://oj.leetcode.com/problems/read-n-characters-given-read4/) &hearts; | [C++](./algorithms/readNCharactersGivenRead4/readNCharactersGivenRead4.cpp)|Easy|
-|156|[Binary Tree Upside Down](https://oj.leetcode.com/problems/binary-tree-upside-down/) &hearts; | [C++](./algorithms/binaryTreeUpsideDown/binaryTreeUpsideDown.cpp)|Medium|
+|159|[Longest Substring with At Most Two Distinct Characters](https://oj.leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) &hearts; | |Hard|
+|158|[Read N Characters Given Read4 II - Call multiple times](https://oj.leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/) &hearts; | |Hard|
+|157|[Read N Characters Given Read4](https://oj.leetcode.com/problems/read-n-characters-given-read4/) &hearts; | |Easy||
+|156|[Binary Tree Upside Down](https://oj.leetcode.com/problems/binary-tree-upside-down/) &hearts; | |Medium|
 |155|[Min Stack](https://oj.leetcode.com/problems/min-stack/)| [C++](./algorithms/minStack/minStack.cpp)|Easy|
 |154|[Find Minimum in Rotated Sorted Array II](https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)| [C++](./algorithms/findMinimumInRotatedSortedArray/findMinimumInRotatedSortedArray.II.cpp)|Hard|
 |153|[Find Minimum in Rotated Sorted Array](https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array/)| [C++](./algorithms/findMinimumInRotatedSortedArray/findMinimumInRotatedSortedArray.cpp)|Medium|
