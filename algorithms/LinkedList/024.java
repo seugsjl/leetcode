@@ -27,8 +27,8 @@ public class Solution {
         	
         	curr = curr.next;
     		
-    		curr = curr.next;
-    		prev = prev.next;
+    		  curr = curr.next;
+    		  prev = prev.next;
     		
         	if(curr != null)
         	{

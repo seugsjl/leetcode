@@ -73,7 +73,7 @@ LeetCode
 |151|[Reverse Words in a String](https://oj.leetcode.com/problems/reverse-words-in-a-string/)| [C++](./algorithms/reverseWordsInAString/reverseWordsInAString.cpp)|Medium|
 |150|[Evaluate Reverse Polish Notation](https://oj.leetcode.com/problems/evaluate-reverse-polish-notation/)| [C++](./algorithms/evaluateReversePolishNotation/evaluateReversePolishNotation.cpp)|Medium|
 |149|[Max Points on a Line](https://oj.leetcode.com/problems/max-points-on-a-line/)| [C++](./algorithms/maxPointsOnALine/maxPointsOnALine.cpp)|Hard|
-|148|[Sort List](https://oj.leetcode.com/problems/sort-list/)| [C++](./algorithms/sortList/sortList.cpp)|Medium|
+|148|[Sort List](https://oj.leetcode.com/problems/sort-list/)| [C++](./algorithms/sortList/148.java)|Medium|Sort|
 |147|[Insertion Sort List](https://oj.leetcode.com/problems/insertion-sort-list/)| [C++](./algorithms/insertionSortList/insertionSortList.cpp)|Medium|
 |146|[LRU Cache](https://oj.leetcode.com/problems/lru-cache/)| [C++](./algorithms/LRUCache/LRUCache.cpp)|Hard|
 |145|[Binary Tree Postorder Traversal](https://oj.leetcode.com/problems/binary-tree-postorder-traversal/)| [JAVA](./algorithms/BinaryTree/BinaryTreePostorderTraversal.java)|Hard|Tree|
@@ -160,8 +160,8 @@ LeetCode
 |64|[Merge Two Sorted Lists](https://oj.leetcode.com/problems/merge-two-sorted-lists/)| [C++](./algorithms/mergeTwoSortedList/mergeTwoSortedList.cpp)|Easy|
 |63|[Minimum Path Sum](https://oj.leetcode.com/problems/minimum-path-sum/)| [C++](./algorithms/minimumPathSum/minimumPathSum.cpp)|Medium|
 |62|[Unique Paths II](https://oj.leetcode.com/problems/unique-paths-ii/)| [C++](./algorithms/uniquePaths/uniquePaths.II.cpp)|Medium|
-|61|[Unique Paths](https://oj.leetcode.com/problems/unique-paths/)| [C++](./algorithms/uniquePaths/uniquePaths.cpp)|Medium|
-|60|[Rotate List](https://oj.leetcode.com/problems/rotate-list/)| [C++](./algorithms/rotateList/rotateList.cpp)|Medium|
+|61|[Unique Paths](https://oj.leetcode.com/problems/unique-paths/)| [C++]|Medium|
+|61|[Rotate List](https://oj.leetcode.com/problems/rotate-list/)| [C++](./algorithms/LinkedList/061.cpp)|Medium|
 |59|[Permutation Sequence](https://oj.leetcode.com/problems/permutation-sequence/)| [C++](./algorithms/permutationSequence/permutationSequence.cpp)|Medium|
 |58|[Spiral Matrix II](https://oj.leetcode.com/problems/spiral-matrix-ii/)| [C++](./algorithms/spiralMatrix/spiralMatrix.II.cpp)|Medium|
 |57|[Length of Last Word](https://oj.leetcode.com/problems/length-of-last-word/)| [C++](./algorithms/lengthOfLastWord/lengthOfLastWord.cpp)|Easy|
@@ -197,8 +197,8 @@ LeetCode
 |27|[Implement strStr()](https://oj.leetcode.com/problems/implement-strstr/)| [C++](./algorithms/strStr/strStr.cpp)|Easy|
 |26|[Remove Element](https://oj.leetcode.com/problems/remove-element/)| [C++](./algorithms/removeElement/removeElement.cpp)|Easy|
 |25|[Remove Duplicates from Sorted Array](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array/)| [C++](./algorithms/removeDuplicatesFromSortedArray/removeDuplicatesFromSortedArray.cpp)|Easy|
-|24|[Reverse Nodes in k-Group](https://oj.leetcode.com/problems/reverse-nodes-in-k-group/)| [C++](./algorithms/reverseNodesInKGroup/reverseNodesInKGroup.cpp)|Hard|
-|23|[Swap Nodes in Pairs](https://oj.leetcode.com/problems/swap-nodes-in-pairs/)| [C++](./algorithms/swapNodesInPairs/swapNodesInPairs.cpp)|Medium|
+|25|[Reverse Nodes in k-Group](https://oj.leetcode.com/problems/reverse-nodes-in-k-group/)| [JAVA](./algorithms/LinkedList/025.java)|Hard|List|
+|23|[Swap Nodes in Pairs](https://oj.leetcode.com/problems/swap-nodes-in-pairs/)| [C++](./algorithms/LinkedList/023.cpp)|Medium|List|
 |23|[Merge k Sorted Lists](https://oj.leetcode.com/problems/merge-k-sorted-lists/)| [C++](./algorithms/heap/MergekSortedLists.cpp)|Hard|
 |21|[Generate Parentheses](https://oj.leetcode.com/problems/generate-parentheses/)| [C++](./algorithms/generateParentheses/generateParentheses.cpp)|Medium|
 |20|[Valid Parentheses](https://oj.leetcode.com/problems/valid-parentheses/)| [C++](./algorithms/validParentheses/validParentheses.cpp)|Easy|
