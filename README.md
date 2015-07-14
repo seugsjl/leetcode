@@ -20,10 +20,10 @@ LeetCode
 |205|[Maximal Square](https://leetcode.com/problems/maximal-square/)| |Medium||
 |204|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)| |Medium||
 |203|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)| |Easy||
-|218|[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)| [JAVA]|Hard||
+|218|[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)| |Hard||
 |201|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)| |Easy|
 |200|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)| |Medium|
-|215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)| [JAVA]|Medium|
+|215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)| |Medium|
 |198|[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)| |Hard|
 |197|[House Robber II](https://leetcode.com/problems/house-robber-ii/)| |Medium|
 |196|[Word Search II](https://leetcode.com/problems/word-search-ii/)| |Hard|
@@ -45,15 +45,15 @@ LeetCode
 |180|[Reverse Bits](https://oj.leetcode.com/problems/reverse-bits/)| |Easy||
 |179|[Rotate Array](https://oj.leetcode.com/problems/rotate-array/)| |Easy||
 |178|[Best Time to Buy and Sell Stock IV](https://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)| |Hard|
-|177|[Repeated DNA Sequences](https://oj.leetcode.com/problems/repeated-dna-sequences/)| [C++]|Medium|
+|177|[Repeated DNA Sequences](https://oj.leetcode.com/problems/repeated-dna-sequences/)| |Medium|
 |176|[Reverse Words in a String II](https://oj.leetcode.com/problems/reverse-words-in-a-string-ii/) &hearts; | |Medium|
 |175|[Largest Number](https://oj.leetcode.com/problems/largest-number/) | |Medium|
-|174|[Dungeon Game](https://oj.leetcode.com/problems/dungeon-game/) | [|Hard|
+|174|[Dungeon Game](https://oj.leetcode.com/problems/dungeon-game/) | |Hard|
 |173|[Binary Search Tree Iterator](https://oj.leetcode.com/problems/binary-search-tree-iterator/) | |Medium|
 |172|[Factorial Trailing Zeroes](https://oj.leetcode.com/problems/factorial-trailing-zeroes/) | |Easy|
 |171|[Excel Sheet Column Number](https://oj.leetcode.com/problems/excel-sheet-column-number/) ||Easy|
 |170|[Two Sum III - Data structure design](https://oj.leetcode.com/problems/two-sum-iii-data-structure-design/) &hearts; | |Easy|
-|169|[Majority Element](https://oj.leetcode.com/problems/majority-element/) | )|Easy|
+|169|[Majority Element](https://oj.leetcode.com/problems/majority-element/) | |Easy|
 |168|[Excel Sheet Column Title](https://oj.leetcode.com/problems/excel-sheet-column-title/) | |Easy|
 |167|[Two Sum II - Input array is sorted](https://oj.leetcode.com/problems/two-sum-ii-input-array-is-sorted/) &hearts; | |Medium|
 |166|[Fraction to Recurring Decimal](https://oj.leetcode.com/problems/fraction-to-recurring-decimal/) | |Medium|
