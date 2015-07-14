@@ -32,10 +32,10 @@ LeetCode
 |193|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)| |Medium||
 |192|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)| |Medium||
 |191|[Course Schedule](https://leetcode.com/problems/course-schedule/)| |Medium||
-|190|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| |Easy||
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[C++](./algorithms/LinkedList/206.cpp) |Easy||
 |189|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)| |Easy||
 |188|[Count Primes](https://leetcode.com/problems/count-primes/)| |Easy||
-|187|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)| |Easy||
+|203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)| [JAVA](./algorithms/LinkedList/203.java)|Easy|List|
 |186|[Happy Number](https://leetcode.com/problems/happy-number/)| |Easy||
 |185|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)| |Medium||
 |184|[Number of Islands](https://leetcode.com/problems/number-of-islands/)||Medium||
@@ -74,12 +74,12 @@ LeetCode
 |151|[Reverse Words in a String](https://oj.leetcode.com/problems/reverse-words-in-a-string/)| |Medium|
 |150|[Evaluate Reverse Polish Notation](https://oj.leetcode.com/problems/evaluate-reverse-polish-notation/)| |Medium|
 |149|[Max Points on a Line](https://oj.leetcode.com/problems/max-points-on-a-line/)| |Hard|
-|148|[Sort List](https://oj.leetcode.com/problems/sort-list/)| |Medium|Sort|
+|148|[Sort List](https://oj.leetcode.com/problems/sort-list/)| [JAVA](./algorithms/Sort/SortList.java)|Medium|Sort|
 |147|[Insertion Sort List](https://oj.leetcode.com/problems/insertion-sort-list/)| |Medium|
 |146|[LRU Cache](https://oj.leetcode.com/problems/lru-cache/)||Hard|
 |145|[Binary Tree Postorder Traversal](https://oj.leetcode.com/problems/binary-tree-postorder-traversal/)| [JAVA](./algorithms/BinaryTree/BinaryTreePostorderTraversal.java)|Hard|Tree|
 |144|[Binary Tree Preorder Traversal](https://oj.leetcode.com/problems/binary-tree-preorder-traversal/)| [JAVA](./algorithms/BinaryTree/BinaryTreePreorderTraversal.java)|Medium|Tree|
-|143|[Reorder List](https://oj.leetcode.com/problems/reorder-list/)||Medium|
+|143|[Reorder List](https://oj.leetcode.com/problems/reorder-list/)|[java](./algorithms/LinkedList/143.java)|Medium|
 |142|[Linked List Cycle II](https://oj.leetcode.com/problems/linked-list-cycle-ii/)| |Medium|
 |141|[Linked List Cycle](https://oj.leetcode.com/problems/linked-list-cycle/)||Medium|
 |140|[Word Break II](https://oj.leetcode.com/problems/word-break-ii/)| |Hard|
@@ -130,17 +130,17 @@ LeetCode
 |95|[Unique Binary Search Trees](https://oj.leetcode.com/problems/unique-binary-search-trees/)| [JAVA](./algorithms/BinaryTree/BinarySearchTreeUnique.java)|Medium|BST|
 |94|[Binary Tree Inorder Traversal](https://oj.leetcode.com/problems/binary-tree-inorder-traversal/)| [JAVA](./algorithms/BinaryTree/TraversalInorder.java)|Medium|
 |93|[Restore IP Addresses](https://oj.leetcode.com/problems/restore-ip-addresses/)| |Medium|
-|92|[Reverse Linked List II](https://oj.leetcode.com/problems/reverse-linked-list-ii/)| |Medium|
+|92|[Reverse Linked List II](https://oj.leetcode.com/problems/reverse-linked-list-ii/)|[JAVA](./algorithms/LinkedList/092.java) |Medium|
 |91|[Subsets II](https://oj.leetcode.com/problems/subsets-ii/)| |Medium|
 |90|[Decode Ways](https://oj.leetcode.com/problems/decode-ways/)| |Medium|
 |89|[Gray Code](https://oj.leetcode.com/problems/gray-code/)||Medium|
 |88|[Merge Sorted Array](https://oj.leetcode.com/problems/merge-sorted-array/)||Easy|
 |87|[Scramble String](https://oj.leetcode.com/problems/scramble-string/)| |Hard|
-|86|[Partition List](https://oj.leetcode.com/problems/partition-list/)||Medium|
+|86|[Partition List](https://oj.leetcode.com/problems/partition-list/)|[JAVA](./algorithms/LinkedList/086.java)[C++](./algorithms/LinkedList/086.java)|Medium|List|
 |85|[Maximal Rectangle](https://oj.leetcode.com/problems/maximal-rectangle/)||Hard|
 |84|[Largest Rectangle in Histogram](https://oj.leetcode.com/problems/largest-rectangle-in-histogram/)| |Hard|
-|83|[Remove Duplicates from Sorted List II](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)| |Medium|
-|82|[Remove Duplicates from Sorted List](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list/)| |Easy|
+|83|[Remove Duplicates from Sorted List II](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)| [java](./algorithms/LinkedList/082.java | Medium | List |
+|82|[Remove Duplicates from Sorted List](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list/)|[java](./algorithms/LinkedList/082.java) | Easy | List |
 |81|[Search in Rotated Sorted Array II](https://oj.leetcode.com/problems/search-in-rotated-sorted-array-ii/)| |Medium|
 |80|[Remove Duplicates from Sorted Array II](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)||Medium|
 |79|[Word Search](https://oj.leetcode.com/problems/word-search/)| |Medium|
