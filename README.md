@@ -136,10 +136,10 @@ LeetCode
 |89|[Gray Code](https://oj.leetcode.com/problems/gray-code/)||Medium|
 |88|[Merge Sorted Array](https://oj.leetcode.com/problems/merge-sorted-array/)||Easy|
 |87|[Scramble String](https://oj.leetcode.com/problems/scramble-string/)| |Hard|
-|86|[Partition List](https://oj.leetcode.com/problems/partition-list/)|[JAVA](./algorithms/LinkedList/086.java)[C++](./algorithms/LinkedList/086.java)|Medium|List|
+|86|[Partition List](https://oj.leetcode.com/problems/partition-list/)|[JAVA](./algorithms/LinkedList/086.java)/[C++](./algorithms/LinkedList/086.java)|Medium|List|
 |85|[Maximal Rectangle](https://oj.leetcode.com/problems/maximal-rectangle/)||Hard|
 |84|[Largest Rectangle in Histogram](https://oj.leetcode.com/problems/largest-rectangle-in-histogram/)| |Hard|
-|83|[Remove Duplicates from Sorted List II](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)| [java](./algorithms/LinkedList/082.java | Medium | List |
+|83|[Remove Duplicates from Sorted List II](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)| [java](./algorithms/LinkedList/082.java)| Medium | List |
 |82|[Remove Duplicates from Sorted List](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list/)|[java](./algorithms/LinkedList/082.java) | Easy | List |
 |81|[Search in Rotated Sorted Array II](https://oj.leetcode.com/problems/search-in-rotated-sorted-array-ii/)| |Medium|
 |80|[Remove Duplicates from Sorted Array II](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)||Medium|
