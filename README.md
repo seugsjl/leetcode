@@ -7,7 +7,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |Tag|
 |---| ----- | -------- | ---------- |---|
-|238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[java](./algorithms/Array/238.java)|Medium||
+|238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[JAVA](./algorithms/Array/238.java)|Medium||
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[JAVA](./algorithms/LinkedList/237.java)| Medium | List |
 |236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/palindrome-linked-list/)|| Medium | Tree |
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[JAVA](./algorithms/BinaryTree/235.java)|Easy|BST|
@@ -16,7 +16,7 @@ LeetCode
 |213|[Majority Element II](https://oj.leetcode.com/problems/majority-element-ii/) | |Medium||
 |212|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)||Easy||
 |211|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)||Medium||
-|210|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)| [java](./algorithms/BinaryTree/BinaryTreeInvert.java)|Easy|Tree|
+|210|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)| [JAVA](./algorithms/BinaryTree/BinaryTreeInvert.java)|Easy|Tree|
 |209|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)| |Medium||
 |208|[Basic Calculator](https://leetcode.com/problems/basic-calculator/)||Medium||
 |207|[Rectangle Area](https://leetcode.com/problems/rectangle-area/)||Easy||
@@ -43,7 +43,7 @@ LeetCode
 |186|[Happy Number](https://leetcode.com/problems/happy-number/)| |Easy||
 |185|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)| |Medium||
 |184|[Number of Islands](https://leetcode.com/problems/number-of-islands/)||Medium||
-|199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)| [java](./algorithms/BinaryTree/BinaryTreeRightSideView.java)|Medium||
+|199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)| [JAVA](./algorithms/BinaryTree/BinaryTreeRightSideView.java)|Medium||
 |182|[House Robber](https://leetcode.com/problems/house-robber/)| |Easy||
 |181|[Number of 1 Bits](https://oj.leetcode.com/problems/number-of-1-bits/)||Easy||
 |180|[Reverse Bits](https://oj.leetcode.com/problems/reverse-bits/)| |Easy||
