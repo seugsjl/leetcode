@@ -3,6 +3,7 @@ LeetCode
 
 ###LeetCode Algorithm
 ###无冥冥之志者无昭昭之明，无惛惛之事者无赫赫之功
+(题目已经做完，正在整理中)
 (Notes: "&hearts;" means need buy a book from Leetcode)
 
 | # | Title | Solution | Difficulty |Tag|
@@ -87,8 +88,8 @@ LeetCode
 |143|[Reorder List](https://oj.leetcode.com/problems/reorder-list/)|[java](./algorithms/LinkedList/143.java)|Medium|
 |142|[Linked List Cycle II](https://oj.leetcode.com/problems/linked-list-cycle-ii/)| |Medium|
 |141|[Linked List Cycle](https://oj.leetcode.com/problems/linked-list-cycle/)||Medium|
-|140|[Word Break II](https://oj.leetcode.com/problems/word-break-ii/)| |Hard|
-|139|[Word Break](https://oj.leetcode.com/problems/word-break/)| |Medium|
+|140|[Word Break II](https://oj.leetcode.com/problems/word-break-ii/)| [JAVA](./algorithms/Array/140.java)|Hard|DP/BFS|
+|139|[Word Break](https://oj.leetcode.com/problems/word-break/)| [JAVA](./algorithms/Array/139.java) |Medium|DP|
 |138|[Copy List with Random Pointer](https://oj.leetcode.com/problems/copy-list-with-random-pointer/)| |Hard|
 |137|[Single Number II](https://oj.leetcode.com/problems/single-number-ii/)||Medium|
 |136|[Single Number](https://oj.leetcode.com/problems/single-number/)||Medium|
