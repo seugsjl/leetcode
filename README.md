@@ -7,9 +7,10 @@ LeetCode
 
 | # | Title | Solution | Difficulty |Tag|
 |---| ----- | -------- | ---------- |---|
-|238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[JAVA](./algorithms/Array/238.java)|Medium||
+|238|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)| [JAVA](./algorithms/Array/239.java) | Hard | Array |
+|238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[JAVA](./algorithms/Array/238.java)|Medium|Array|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[JAVA](./algorithms/LinkedList/237.java)| Medium | List |
-|236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/palindrome-linked-list/)|| Medium | Tree |
+|236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/palindrome-linked-list/)|[JAVA](./algorithms/BinaryTree/236.java)| Medium | Tree |
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[JAVA](./algorithms/BinaryTree/235.java)|Easy|BST|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[C++](./algorithms/LinkedList/234.cpp)|Medium|List|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[JAVA](./algorithms/BinaryTree/BSTKthSmallestElement.java)|Medium|BST|
