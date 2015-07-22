@@ -31,7 +31,7 @@ LeetCode
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)| |Medium|
 |214|[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)| |Hard|
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)| |Medium|
-|212|[Word Search II](https://leetcode.com/problems/word-search-ii/)| [JAVA](./algorithms/Array/212.java)|Hard|
+|212|[Word Search II](https://leetcode.com/problems/word-search-ii/)| [JAVA](./algorithms/Array/212.java)|BST/Trie|
 |195|[Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)| |Medium||
 |194|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)| |Medium||
 |193|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)| |Medium||
@@ -148,7 +148,7 @@ LeetCode
 |82|[Remove Duplicates from Sorted List](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list/)|[java](./algorithms/LinkedList/082.java) | Easy | List |
 |81|[Search in Rotated Sorted Array II](https://oj.leetcode.com/problems/search-in-rotated-sorted-array-ii/)| |Medium|
 |80|[Remove Duplicates from Sorted Array II](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)||Medium|
-|79|[Word Search](https://oj.leetcode.com/problems/word-search/)| JAVA[(./algorithms/Array/079.java)]|Medium|
+|79|[Word Search](https://oj.leetcode.com/problems/word-search/)| [JAVA](./algorithms/Array/079.java)|Medium|BST|
 |78|[Subsets](https://oj.leetcode.com/problems/subsets/)| |Medium|
 |77|[Combinations](https://oj.leetcode.com/problems/combinations/)| |Medium|
 |76|[Minimum Window Substring](https://oj.leetcode.com/problems/minimum-window-substring/)| |Hard|
