@@ -83,7 +83,7 @@ public class Solution {
     }
 }
 /*
-来源于网络的一个答案，实际运行速度要比我的快
+来源于网络的一个答案，实际运行速度要比我的快，主要还是我的算法DFS部分太慢了，可以优化的余地非常大
 */
 public class Solution2 {
   public static List<String> wordBreak(String s, Set<String> dict) {

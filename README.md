@@ -167,7 +167,7 @@ LeetCode
 |64|[Merge Two Sorted Lists](https://oj.leetcode.com/problems/merge-two-sorted-lists/)| |Easy|
 |63|[Minimum Path Sum](https://oj.leetcode.com/problems/minimum-path-sum/)||Medium|
 |62|[Unique Paths II](https://oj.leetcode.com/problems/unique-paths-ii/)| |Medium|
-|61|[Unique Paths](https://oj.leetcode.com/problems/unique-paths/)| [C++]|Medium|
+|61|[Unique Paths](https://oj.leetcode.com/problems/unique-paths/)| |Medium|
 |61|[Rotate List](https://oj.leetcode.com/problems/rotate-list/)| [C++](./algorithms/LinkedList/061.cpp)|Medium|
 |59|[Permutation Sequence](https://oj.leetcode.com/problems/permutation-sequence/)||Medium|
 |58|[Spiral Matrix II](https://oj.leetcode.com/problems/spiral-matrix-ii/)| |Medium|
