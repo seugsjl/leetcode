@@ -14,9 +14,12 @@ LeetCode
 |236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/palindrome-linked-list/)|[JAVA](./algorithms/BinaryTree/236.java)| Medium | Tree |
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[JAVA](./algorithms/BinaryTree/235.java)|Easy|BST|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[C++](./algorithms/LinkedList/234.cpp)|Medium|List|
+|233|[Number of Digit One](https://leetcode.com/problems/number-of-digit-one/)|[JAVA](./algorithms/Arr/234.cpp)|Medium|List|
+|232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [JAVA](./algorithms/DataStructure/232.java)|Easy| Stack|
+|231|[Power of Two](https://leetcode.com/problems/power-of-two/) | [JAVA](./algorithms/Array/231.java)|Easy| Array|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[JAVA](./algorithms/BinaryTree/BSTKthSmallestElement.java)|Medium|BST|
-|213|[Majority Element II](https://oj.leetcode.com/problems/majority-element-ii/) | |Medium||
-|212|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)||Easy||
+|229|[Majority Element II](https://oj.leetcode.com/problems/majority-element-ii/) | [JAVA](./algorithms/Array/229.java)|Medium| Array|
+|228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[JAVA](./algorithms/Arr/228.java)|Easy|Array|
 |211|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)||Medium||
 |210|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)| [JAVA](./algorithms/BinaryTree/BinaryTreeInvert.java)|Easy|Tree|
 |209|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)| |Medium||
@@ -237,8 +240,12 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|4|[Tenth Line](https://leetcode.com/problems/tenth-line/)| [Bash](./shell/TenthLine.sh)|Easy|
-|3|[Transpose File](https://leetcode.com/problems/transpose-file/)| [Bash](./shell/TransposeFile.sh)|Medium|
-|2|[Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/)| [Bash](./shell/ValidPhoneNumbers.sh)|Easy|
-|1|[Word Frequency](https://leetcode.com/problems/word-frequency/)| [Bash](./shell/WordFrequency.sh)|Medium|
+|195|[Tenth Line](https://leetcode.com/problems/tenth-line/)| [Bash](./shell/195.sh)|Easy|
+|194|[Transpose File](https://leetcode.com/problems/transpose-file/)| [Bash](./shell/194.sh)|Medium|
+|193|[Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/)| [Bash](./shell/193.sh)|Easy|
+|192|[Word Frequency](https://leetcode.com/problems/word-frequency/)| [Bash](./shell/192.sh)|Medium|
 
+###LeetCode DataBase
+
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
