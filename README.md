@@ -14,12 +14,12 @@ LeetCode
 |236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/palindrome-linked-list/)|[JAVA](./algorithms/BinaryTree/236.java)| Medium | Tree |
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[JAVA](./algorithms/BinaryTree/235.java)|Easy|BST|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[C++](./algorithms/LinkedList/234.cpp)|Medium|List|
-|233|[Number of Digit One](https://leetcode.com/problems/number-of-digit-one/)|[JAVA](./algorithms/Arr/234.cpp)|Medium|List|
+|233|[Number of Digit One](https://leetcode.com/problems/number-of-digit-one/)|[JAVA](./algorithms/Array/234.cpp)|Medium|List|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [JAVA](./algorithms/DataStructure/232.java)|Easy| Stack|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/) | [JAVA](./algorithms/Array/231.java)|Easy| Array|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[JAVA](./algorithms/BinaryTree/BSTKthSmallestElement.java)|Medium|BST|
 |229|[Majority Element II](https://oj.leetcode.com/problems/majority-element-ii/) | [JAVA](./algorithms/Array/229.java)|Medium| Array|
-|228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[JAVA](./algorithms/Arr/228.java)|Easy|Array|
+|228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[JAVA](./algorithms/Array/228.java)|Easy|Array|
 |211|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)||Medium||
 |210|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)| [JAVA](./algorithms/BinaryTree/BinaryTreeInvert.java)|Easy|Tree|
 |209|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)| |Medium||
@@ -119,7 +119,7 @@ LeetCode
 |115|[Distinct Subsequences](https://oj.leetcode.com/problems/distinct-subsequences/)||Hard|
 |114|[Flatten Binary Tree to Linked List](https://oj.leetcode.com/problems/flatten-binary-tree-to-linked-list/)| [C++](./algorithms/BinaryTree/BinaryTreeFlattentoLinkedList.java)|Medium|
 |113|[Path Sum II](https://oj.leetcode.com/problems/path-sum-ii/)| [JAVA](./algorithms/BinaryTree/PathSumII.java)|Medium|Tree|
-|112|[Path Sum](https://oj.leetcode.com/problems/path-sum/)| [JAVA](./algorithms/BinaryTree/PsathSum.java)[C++](./algorithms/BinaryTree/PathSum.cpp)|Easy|Tree|
+|112|[Path Sum](https://oj.leetcode.com/problems/path-sum/)| [JAVA](./algorithms/BinaryTree/PsathSum.java)/[C++](./algorithms/BinaryTree/PathSum.cpp)|Easy|Tree|
 |111|[Minimum Depth of Binary Tree](https://oj.leetcode.com/problems/minimum-depth-of-binary-tree/)| [JAVA](./algorithms/BinaryTree/BinaryTreeMinimumDepth.java)|Easy|Tree|
 |110|[Balanced Binary Tree](https://oj.leetcode.com/problems/balanced-binary-tree/)| [JAVA](./algorithms/BinaryTree/BinaryTreeBalanced.java)|Easy|
 |109|[Convert Sorted List to Binary Search Tree](https://oj.leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)||Medium|
@@ -225,12 +225,12 @@ LeetCode
 |9|[Palindrome Number](https://oj.leetcode.com/problems/palindrome-number/)| |Easy|
 |8|[String to Integer (atoi)](https://oj.leetcode.com/problems/string-to-integer-atoi/)| |Easy|
 |7|[Reverse Integer](https://oj.leetcode.com/problems/reverse-integer/)| |Easy|
-|6|[ZigZag Conversion](https://oj.leetcode.com/problems/zigzag-conversion/)| [C++](./algorithms/Arr/006.cpp)|Easy|
-|5|[Longest Palindromic Substring](https://oj.leetcode.com/problems/longest-palindromic-substring/)| |Medium|
-|4|[Add Two Numbers](https://oj.leetcode.com/problems/add-two-numbers/)| |Medium|
-|3|[Longest Substring Without Repeating Characters](https://oj.leetcode.com/problems/longest-substring-without-repeating-characters/)| |Medium|
-|2|[Median of Two Sorted Arrays](https://oj.leetcode.com/problems/median-of-two-sorted-arrays/)| |Hard|
-|1|[Two Sum](https://oj.leetcode.com/problems/two-sum/)| [JAVA](./algorithms/xSum/twoSum.java)|Medium|
+|6|[ZigZag Conversion](https://oj.leetcode.com/problems/zigzag-conversion/)| [C++](./algorithms/String/006.cpp)|Easy|String|
+|5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)| [C++](./algorithms/String/005.cpp)|Medium|String|
+|4|[Median of Two Sorted Arrays](https://oj.leetcode.com/problems/median-of-two-sorted-arrays/)| [JAVA](./algorithms/Array/004.java)|Hard|Array|
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [C++](./algorithms/String/003.cpp)|Medium|String|
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [C++](./algorithms/Linkedlist/002.cpp)|Medium|List|
+|1|[Two Sum](https://oj.leetcode.com/problems/two-sum/)| [JAVA](./algorithms/xSum/twoSum.java)|Medium|Array|
 
 
 
