@@ -217,9 +217,9 @@ LeetCode
 |18|[4Sum](https://oj.leetcode.com/problems/4sum/)| [JAVA](./algorithms/xSum/4Sum.java)|Medium|
 |16|[3Sum Closest](https://oj.leetcode.com/problems/3sum-closest/)| [C++](./algorithms/xSum/3SumClosest.cpp)|Medium|
 |15|[3Sum](https://oj.leetcode.com/problems/3sum/)| [JAVA](./algorithms/xSum/3Sum.java)|Medium|
-|14|[Longest Common Prefix](https://oj.leetcode.com/problems/longest-common-prefix/)| |Easy|
-|13|[Roman to Integer](https://oj.leetcode.com/problems/roman-to-integer/)| |Easy|
-|12|[Integer to Roman](https://oj.leetcode.com/problems/integer-to-roman/)| |Medium|
+|14|[Longest Common Prefix](https://oj.leetcode.com/problems/longest-common-prefix/)| [JAVA](./algorithms/String/014.java)|Easy|String|
+|13|[Roman to Integer](https://oj.leetcode.com/problems/roman-to-integer/)|[JAVA](./algorithms/Math/013.java) |Easy|Math|
+|12|[Integer to Roman](https://oj.leetcode.com/problems/integer-to-roman/)| [JAVA](./algorithms/Math/012.java)|Medium|Math|
 |11|[Container With Most Water](https://oj.leetcode.com/problems/container-with-most-water/)| [C++](./algorithms/Array/011.cpp)|Medium|
 |10|[Regular Expression Matching](https://oj.leetcode.com/problems/regular-expression-matching/)| [JAVA](./algorithms/String/010.java) |Hard|
 |9|[Palindrome Number](https://oj.leetcode.com/problems/palindrome-number/)|[C++](./algorithms/Math/009.cpp) |Easy|Math|
