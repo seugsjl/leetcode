@@ -190,7 +190,7 @@ LeetCode
 |44|[Jump Game II](https://oj.leetcode.com/problems/jump-game-ii/)||Hard|
 |43|[Wildcard Matching](https://oj.leetcode.com/problems/wildcard-matching/)| |Hard|
 |42|[Multiply Strings](https://oj.leetcode.com/problems/multiply-strings/)| |Medium|
-|41|[Trapping Rain Water](https://oj.leetcode.com/problems/trapping-rain-water/)| |Hard|
+|42|[Trapping Rain Water](https://oj.leetcode.com/problems/trapping-rain-water/)|[JAVA](./algorithms/Array/042.java)/[C++](./algorithms/Array/042.cpp) |Hard|Array
 |40|[First Missing Positive](https://oj.leetcode.com/problems/first-missing-positive/)| |Hard|
 |39|[Combination Sum II](https://oj.leetcode.com/problems/combination-sum-ii/)| |Medium|
 |38|[Combination Sum](https://oj.leetcode.com/problems/combination-sum/)| |Medium|
@@ -220,11 +220,11 @@ LeetCode
 |14|[Longest Common Prefix](https://oj.leetcode.com/problems/longest-common-prefix/)| |Easy|
 |13|[Roman to Integer](https://oj.leetcode.com/problems/roman-to-integer/)| |Easy|
 |12|[Integer to Roman](https://oj.leetcode.com/problems/integer-to-roman/)| |Medium|
-|11|[Container With Most Water](https://oj.leetcode.com/problems/container-with-most-water/)| |Medium|
-|10|[Regular Expression Matching](https://oj.leetcode.com/problems/regular-expression-matching/)| |Hard|
-|9|[Palindrome Number](https://oj.leetcode.com/problems/palindrome-number/)| |Easy|
-|8|[String to Integer (atoi)](https://oj.leetcode.com/problems/string-to-integer-atoi/)| |Easy|
-|7|[Reverse Integer](https://oj.leetcode.com/problems/reverse-integer/)| |Easy|
+|11|[Container With Most Water](https://oj.leetcode.com/problems/container-with-most-water/)| [C++](./algorithms/Array/011.cpp)|Medium|
+|10|[Regular Expression Matching](https://oj.leetcode.com/problems/regular-expression-matching/)| [JAVA](./algorithms/String/010.java) |Hard|
+|9|[Palindrome Number](https://oj.leetcode.com/problems/palindrome-number/)|[C++](./algorithms/Math/009.cpp) |Easy|Math|
+|8|[String to Integer (atoi)](https://oj.leetcode.com/problems/string-to-integer-atoi/)| [C](./algorithms/Math/008.c)|Easy|Math|
+|7|[Reverse Integer](https://oj.leetcode.com/problems/reverse-integer/)| [C++](./algorithms/Math/007.cpp)|Easy|Math|
 |6|[ZigZag Conversion](https://oj.leetcode.com/problems/zigzag-conversion/)| [C++](./algorithms/String/006.cpp)|Easy|String|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)| [C++](./algorithms/String/005.cpp)|Medium|String|
 |4|[Median of Two Sorted Arrays](https://oj.leetcode.com/problems/median-of-two-sorted-arrays/)| [JAVA](./algorithms/Array/004.java)|Hard|Array|
