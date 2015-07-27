@@ -85,10 +85,10 @@ LeetCode
 |149|[Max Points on a Line](https://oj.leetcode.com/problems/max-points-on-a-line/)| |Hard|
 |148|[Sort List](https://oj.leetcode.com/problems/sort-list/)| [JAVA](./algorithms/Sort/SortList.java)|Medium|Sort|
 |147|[Insertion Sort List](https://oj.leetcode.com/problems/insertion-sort-list/)| |Medium|
-|146|[LRU Cache](https://oj.leetcode.com/problems/lru-cache/)|[java](./algorithms/Array/146.java)|Hard|
+|146|[LRU Cache](https://oj.leetcode.com/problems/lru-cache/)|[JAVA](./algorithms/Array/146.java)|Hard|
 |145|[Binary Tree Postorder Traversal](https://oj.leetcode.com/problems/binary-tree-postorder-traversal/)| [JAVA](./algorithms/BinaryTree/BinaryTreePostorderTraversal.java)|Hard|Tree|
 |144|[Binary Tree Preorder Traversal](https://oj.leetcode.com/problems/binary-tree-preorder-traversal/)| [JAVA](./algorithms/BinaryTree/BinaryTreePreorderTraversal.java)|Medium|Tree|
-|143|[Reorder List](https://oj.leetcode.com/problems/reorder-list/)|[java](./algorithms/LinkedList/143.java)|Medium|
+|143|[Reorder List](https://oj.leetcode.com/problems/reorder-list/)|[JAVA](./algorithms/LinkedList/143.java)|Medium|
 |142|[Linked List Cycle II](https://oj.leetcode.com/problems/linked-list-cycle-ii/)| |Medium|
 |141|[Linked List Cycle](https://oj.leetcode.com/problems/linked-list-cycle/)||Medium|
 |140|[Word Break II](https://oj.leetcode.com/problems/word-break-ii/)| [JAVA](./algorithms/Array/140.java)|Hard|DP/BFS|
@@ -148,8 +148,8 @@ LeetCode
 |86|[Partition List](https://oj.leetcode.com/problems/partition-list/)|[JAVA](./algorithms/LinkedList/086.java)/[C++](./algorithms/LinkedList/086.java)|Medium|List|
 |85|[Maximal Rectangle](https://oj.leetcode.com/problems/maximal-rectangle/)||Hard|
 |84|[Largest Rectangle in Histogram](https://oj.leetcode.com/problems/largest-rectangle-in-histogram/)| |Hard|
-|83|[Remove Duplicates from Sorted List II](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)| [java](./algorithms/LinkedList/082.java)| Medium | List |
-|82|[Remove Duplicates from Sorted List](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list/)|[java](./algorithms/LinkedList/082.java) | Easy | List |
+|83|[Remove Duplicates from Sorted List II](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)| [JAVA](./algorithms/LinkedList/082.java)| Medium | List |
+|82|[Remove Duplicates from Sorted List](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list/)|[JAVA](./algorithms/LinkedList/082.java) | Easy | List |
 |81|[Search in Rotated Sorted Array II](https://oj.leetcode.com/problems/search-in-rotated-sorted-array-ii/)| |Medium|
 |80|[Remove Duplicates from Sorted Array II](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)||Medium|
 |79|[Word Search](https://oj.leetcode.com/problems/word-search/)| [JAVA](./algorithms/Array/079.java)|Medium|BST|
@@ -201,18 +201,19 @@ LeetCode
 |33|[Search for a Range](https://oj.leetcode.com/problems/search-for-a-range/)| |Medium|
 |32|[Search in Rotated Sorted Array](https://oj.leetcode.com/problems/search-in-rotated-sorted-array/)| |Hard|
 |31|[Longest Valid Parentheses](https://oj.leetcode.com/problems/longest-valid-parentheses/)| |Hard|
-|30|[Next Permutation](https://oj.leetcode.com/problems/next-permutation/)| |Medium|
-|29|[Substring with Concatenation of All Words](https://oj.leetcode.com/problems/substring-with-concatenation-of-all-words/)| |Hard|
-|28|[Divide Two Integers](https://oj.leetcode.com/problems/divide-two-integers/)| |Medium|
-|27|[Implement strStr()](https://oj.leetcode.com/problems/implement-strstr/)| |Easy|
-|26|[Remove Element](https://oj.leetcode.com/problems/remove-element/)| |Easy|
-|25|[Remove Duplicates from Sorted Array](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array/)||Easy|
+|31|[Next Permutation](https://oj.leetcode.com/problems/next-permutation/)| |Medium|
+|30|[Substring with Concatenation of All Words](https://oj.leetcode.com/problems/substring-with-concatenation-of-all-words/)|[JAVA](./algorithms/String/030.java)/[C++](./algorithms/String/030.cpp) |Hard|String|
+|29|[Divide Two Integers](https://oj.leetcode.com/problems/divide-two-integers/)| [JAVA](./algorithms/Math/029.java)|Medium|Math|
+|28|[Implement strStr()](https://oj.leetcode.com/problems/implement-strstr/)|[JAVA](./algorithms/String/028.java)/[C++](./algorithms/String/028.cpp) |Easy|String|
+|27|[Remove Element](https://oj.leetcode.com/problems/remove-element/)| [JAVA](./algorithms/Array/027.java)|Easy|Array|
+|26|[Remove Duplicates from Sorted Array](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array/)|[JAVA](./algorithms/Array/026.java)|Easy|Array|
 |25|[Reverse Nodes in k-Group](https://oj.leetcode.com/problems/reverse-nodes-in-k-group/)| [JAVA](./algorithms/LinkedList/025.java)|Hard|List|
-|23|[Swap Nodes in Pairs](https://oj.leetcode.com/problems/swap-nodes-in-pairs/)| |Medium|List|
-|23|[Merge k Sorted Lists](https://oj.leetcode.com/problems/merge-k-sorted-lists/)| |Hard|
-|21|[Generate Parentheses](https://oj.leetcode.com/problems/generate-parentheses/)| |Medium|
-|20|[Valid Parentheses](https://oj.leetcode.com/problems/valid-parentheses/)||Easy|
-|19|[Remove Nth Node From End of List](https://oj.leetcode.com/problems/remove-nth-node-from-end-of-list/)| |Easy|
+|24|[Swap Nodes in Pairs](https://oj.leetcode.com/problems/swap-nodes-in-pairs/)| [JAVA](./algorithms/LinkedList/024.java)|Medium|List|
+|23|[Merge k Sorted Lists](https://oj.leetcode.com/problems/merge-k-sorted-lists/)| [JAVA](./algorithms/Sort/023.java)|Hard|Sort|
+|22|[Generate Parentheses](https://oj.leetcode.com/problems/generate-parentheses/)| [JAVA](./algorithms/JAVA/022.java)|Medium|String|
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[JAVA](./algorithms/Sort/021.java)|Easy|Sort|
+|20|[Valid Parentheses](https://oj.leetcode.com/problems/valid-parentheses/)|[JAVA](./algorithms/Stack/020.java)|Easy|Stack|
+|19|[Remove Nth Node From End of List](https://oj.leetcode.com/problems/remove-nth-node-from-end-of-list/)|[JAVA](./algorithms/LinkedList/019.java) |Easy|LinkedList|
 |18|[4Sum](https://oj.leetcode.com/problems/4sum/)| [JAVA](./algorithms/xSum/4Sum.java)|Medium|
 |17|[Letter Combinations of a Phone Number](https://oj.leetcode.com/problems/letter-combinations-of-a-phone-number/)| [JAVA](./algorithms/String/017.java)|Medium|
 |16|[3Sum Closest](https://oj.leetcode.com/problems/3sum-closest/)| [C++](./algorithms/xSum/3SumClosest.cpp)|Medium|
