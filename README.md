@@ -225,7 +225,7 @@ LeetCode
 |9|[Palindrome Number](https://oj.leetcode.com/problems/palindrome-number/)| |Easy|
 |8|[String to Integer (atoi)](https://oj.leetcode.com/problems/string-to-integer-atoi/)| |Easy|
 |7|[Reverse Integer](https://oj.leetcode.com/problems/reverse-integer/)| |Easy|
-|6|[ZigZag Conversion](https://oj.leetcode.com/problems/zigzag-conversion/)| |Easy|
+|6|[ZigZag Conversion](https://oj.leetcode.com/problems/zigzag-conversion/)| [C++](./algorithms/Arr/006.cpp)|Easy|
 |5|[Longest Palindromic Substring](https://oj.leetcode.com/problems/longest-palindromic-substring/)| |Medium|
 |4|[Add Two Numbers](https://oj.leetcode.com/problems/add-two-numbers/)| |Medium|
 |3|[Longest Substring Without Repeating Characters](https://oj.leetcode.com/problems/longest-substring-without-repeating-characters/)| |Medium|
