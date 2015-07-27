@@ -213,8 +213,8 @@ LeetCode
 |21|[Generate Parentheses](https://oj.leetcode.com/problems/generate-parentheses/)| |Medium|
 |20|[Valid Parentheses](https://oj.leetcode.com/problems/valid-parentheses/)||Easy|
 |19|[Remove Nth Node From End of List](https://oj.leetcode.com/problems/remove-nth-node-from-end-of-list/)| |Easy|
-|18|[Letter Combinations of a Phone Number](https://oj.leetcode.com/problems/letter-combinations-of-a-phone-number/)| |Medium|
 |18|[4Sum](https://oj.leetcode.com/problems/4sum/)| [JAVA](./algorithms/xSum/4Sum.java)|Medium|
+|17|[Letter Combinations of a Phone Number](https://oj.leetcode.com/problems/letter-combinations-of-a-phone-number/)| [JAVA](./algorithms/String/017.java)|Medium|
 |16|[3Sum Closest](https://oj.leetcode.com/problems/3sum-closest/)| [C++](./algorithms/xSum/3SumClosest.cpp)|Medium|
 |15|[3Sum](https://oj.leetcode.com/problems/3sum/)| [JAVA](./algorithms/xSum/3Sum.java)|Medium|
 |14|[Longest Common Prefix](https://oj.leetcode.com/problems/longest-common-prefix/)| [JAVA](./algorithms/String/014.java)|Easy|String|
