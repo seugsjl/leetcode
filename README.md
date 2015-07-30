@@ -76,15 +76,15 @@ LeetCode
 |158|[Read N Characters Given Read4 II - Call multiple times](https://oj.leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/) &hearts; | |Hard|
 |157|[Read N Characters Given Read4](https://oj.leetcode.com/problems/read-n-characters-given-read4/) &hearts; | |Easy||
 |156|[Binary Tree Upside Down](https://oj.leetcode.com/problems/binary-tree-upside-down/) &hearts; | |Medium|
-|155|[Min Stack](https://oj.leetcode.com/problems/min-stack/)||Easy|
-|154|[Find Minimum in Rotated Sorted Array II](https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)| |Hard|
-|153|[Find Minimum in Rotated Sorted Array](https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array/)| |Medium|
-|152|[Maximum Product Subarray](https://oj.leetcode.com/problems/maximum-product-subarray/)| |Medium|
-|151|[Reverse Words in a String](https://oj.leetcode.com/problems/reverse-words-in-a-string/)| |Medium|
-|150|[Evaluate Reverse Polish Notation](https://oj.leetcode.com/problems/evaluate-reverse-polish-notation/)| |Medium|
-|149|[Max Points on a Line](https://oj.leetcode.com/problems/max-points-on-a-line/)| |Hard|
+|155|[Min Stack](https://oj.leetcode.com/problems/min-stack/)|[JAVA](./algorithms/DataStructure/155.java)|Easy|Stack|
+|154|[Find Minimum in Rotated Sorted Array II](https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)| [JAVA](./algorithms/Array/154.java)|Hard|BSearch|
+|153|[Find Minimum in Rotated Sorted Array](https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array/)| [JAVA](./algorithms/Array/153.java)/[C++](./algorithms/Array/153.cpp)|Medium|BSearch|
+|152|[Maximum Product Subarray](https://oj.leetcode.com/problems/maximum-product-subarray/)| [JAVA](./algorithms/Dynamic/151.java)|Medium|
+|151|[Reverse Words in a String](https://oj.leetcode.com/problems/reverse-words-in-a-string/)|[JAVA](./algorithms/String/151.java) |Medium|String|
+|150|[Evaluate Reverse Polish Notation](https://oj.leetcode.com/problems/evaluate-reverse-polish-notation/)|[JAVA](./algorithms/Math/150.java) |Medium|Math|
+|149|[Max Points on a Line](https://oj.leetcode.com/problems/max-points-on-a-line/)| [JAVA](./algorithms/Math/149.java)|Hard|Math|
 |148|[Sort List](https://oj.leetcode.com/problems/sort-list/)| [JAVA](./algorithms/Sort/SortList.java)|Medium|Sort|
-|147|[Insertion Sort List](https://oj.leetcode.com/problems/insertion-sort-list/)| |Medium|
+|147|[Insertion Sort List](https://oj.leetcode.com/problems/insertion-sort-list/)| [JAVA](./algorithms/Sort/147.java)|Medium|Sort|
 |146|[LRU Cache](https://oj.leetcode.com/problems/lru-cache/)|[JAVA](./algorithms/Array/146.java)|Hard|
 |145|[Binary Tree Postorder Traversal](https://oj.leetcode.com/problems/binary-tree-postorder-traversal/)| [JAVA](./algorithms/BinaryTree/BinaryTreePostorderTraversal.java)|Hard|Tree|
 |144|[Binary Tree Preorder Traversal](https://oj.leetcode.com/problems/binary-tree-preorder-traversal/)| [JAVA](./algorithms/BinaryTree/BinaryTreePreorderTraversal.java)|Medium|Tree|
@@ -104,7 +104,7 @@ LeetCode
 |130|[Surrounded Regions](https://oj.leetcode.com/problems/surrounded-regions/)| |Medium|
 |129|[Sum Root to Leaf Numbers](https://oj.leetcode.com/problems/sum-root-to-leaf-numbers/)| |Medium|Tree|
 |128|[Longest Consecutive Sequence](https://oj.leetcode.com/problems/longest-consecutive-sequence/)||Hard|
-|127|[Word Ladder II](https://oj.leetcode.com/problems/word-ladder-ii/)||Hard|
+|127|[Word Ladder II](https://oj.leetcode.com/problems/word-ladder-ii/)|  |Hard|
 |126|[Word Ladder](https://oj.leetcode.com/problems/word-ladder/)||Medium|
 |125|[Valid Palindrome](https://oj.leetcode.com/problems/valid-palindrome/)|)|Easy|
 |124|[Binary Tree Maximum Path Sum](https://oj.leetcode.com/problems/binary-tree-maximum-path-sum/)| |Hard|

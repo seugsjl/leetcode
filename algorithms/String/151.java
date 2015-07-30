@@ -1,12 +1,3 @@
-/*
-Reverse Words in a String
-Given an input string, reverse the string word by word.
-
-For example,
-Given s = "the sky is blue",
-return "blue is sky the"
-
-*/
 public class Solution {
     public String reverseWords(String s) {
 		StringBuilder res = new StringBuilder();  
@@ -40,4 +31,3 @@ public class Solution {
         return res.toString();
     }
 }
-

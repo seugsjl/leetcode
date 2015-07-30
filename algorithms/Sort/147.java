@@ -1,7 +1,3 @@
-/*
-Insertion Sort List 
-Sort a linked list using insertion sort.
-*/
 /**
  * Definition for singly-linked list.
  * public class ListNode {
@@ -12,6 +8,7 @@ Sort a linked list using insertion sort.
  *         next = null;
  *     }
  * }
+ * ≤Â»Î≈≈–Ú
  */
 public class Solution {
     public ListNode insertionSortList(ListNode head) {

@@ -4,7 +4,7 @@
 class Solution {
 public:
     vector<int> findSubstring(string S, vector<string>& L) {
- int l_size = L.size();
+        int l_size = L.size();
         
         if (l_size <= 0) {
             return vector<int>();
