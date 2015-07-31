@@ -111,12 +111,12 @@ LeetCode
 |123|[Best Time to Buy and Sell Stock III](https://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)| |Hard|
 |122|[Best Time to Buy and Sell Stock II](https://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| |Medium|
 |121|[Best Time to Buy and Sell Stock](https://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock/)| |Medium|
-|120|[Triangle](https://oj.leetcode.com/problems/triangle/)| |Medium|
-|119|[Pascal's Triangle II](https://oj.leetcode.com/problems/pascals-triangle-ii/)| |Easy|
-|118|[Pascal's Triangle](https://oj.leetcode.com/problems/pascals-triangle/)| |Easy|
+|120|[Triangle](https://oj.leetcode.com/problems/triangle/)|[JAVA](./algorithms/Dynamic/120.java) |Medium|DP|
+|119|[Pascal's Triangle II](https://oj.leetcode.com/problems/pascals-triangle-ii/)| [JAVA](./algorithms/Array/119.java) |Easy|Array|
+|118|[Pascal's Triangle](https://oj.leetcode.com/problems/pascals-triangle/)|[JAVA](./algorithms/Array/118.java) |Easy|Array|
 |117|[Populating Next Right Pointers in Each Node II](https://oj.leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)| [JAVA](./algorithms/BinaryTree/PopulatingNextRightPointersinEachNodeII.java)|Hard|Tree|
 |116|[Populating Next Right Pointers in Each Node](https://oj.leetcode.com/problems/populating-next-right-pointers-in-each-node/)| [JAVA](./algorithms/BinaryTree/PopulatingNextRightPointersinEachNode.java)|Medium|Tree|
-|115|[Distinct Subsequences](https://oj.leetcode.com/problems/distinct-subsequences/)||Hard|
+|115|[Distinct Subsequences](https://oj.leetcode.com/problems/distinct-subsequences/)|[JAVA](./algorithms/Dynamic/115.java)|Hard|DP|
 |114|[Flatten Binary Tree to Linked List](https://oj.leetcode.com/problems/flatten-binary-tree-to-linked-list/)| [C++](./algorithms/BinaryTree/BinaryTreeFlattentoLinkedList.java)|Medium|
 |113|[Path Sum II](https://oj.leetcode.com/problems/path-sum-ii/)| [JAVA](./algorithms/BinaryTree/PathSumII.java)|Medium|Tree|
 |112|[Path Sum](https://oj.leetcode.com/problems/path-sum/)| [JAVA](./algorithms/BinaryTree/PsathSum.java)/[C++](./algorithms/BinaryTree/PathSum.cpp)|Easy|Tree|
