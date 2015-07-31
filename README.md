@@ -104,8 +104,8 @@ LeetCode
 |130|[Surrounded Regions](https://oj.leetcode.com/problems/surrounded-regions/)| |Medium|
 |129|[Sum Root to Leaf Numbers](https://oj.leetcode.com/problems/sum-root-to-leaf-numbers/)| |Medium|Tree|
 |128|[Longest Consecutive Sequence](https://oj.leetcode.com/problems/longest-consecutive-sequence/)||Hard|
-|127|[Word Ladder II](https://oj.leetcode.com/problems/word-ladder-ii/)|  |Hard|
-|126|[Word Ladder](https://oj.leetcode.com/problems/word-ladder/)||Medium|
+|127|[Word Ladder II](https://oj.leetcode.com/problems/word-ladder-ii/)|[JAVA](./algorithms/String/WordLadderII.java)|Hard|BFS|
+|126|[Word Ladder](https://oj.leetcode.com/problems/word-ladder/)|[JAVA](./algorithms/String/WordLadder.java)|Medium|BFS|
 |125|[Valid Palindrome](https://oj.leetcode.com/problems/valid-palindrome/)|[JAVA](./algorithms/String/125.java)|Easy|String|
 |124|[Binary Tree Maximum Path Sum](https://oj.leetcode.com/problems/binary-tree-maximum-path-sum/)|[JAVA](./algorithms/BinaryTree/124.java)|Hard|Tree|
 |123|[Best Time to Buy and Sell Stock III](https://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|[JAVA](./algorithms/Array/123.java)|Hard|Array|
