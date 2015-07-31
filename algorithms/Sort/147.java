@@ -8,9 +8,12 @@
  *         next = null;
  *     }
  * }
- * 插入排序
+ * 在leetcode147之外，还实现了其他的排序
  */
 public class Solution {
+    /**
+	 * 插入排序
+	 */
     public ListNode insertionSortList(ListNode head) {
     	ListNode pre;
     	ListNode current;
@@ -53,4 +56,35 @@ public class Solution {
     	}
         return nh;     
     }
+	/**
+	 * 冒泡排序
+	 */
+	public static ListNode bubbleSortList(ListNode head) {
+		ListNode end = null;
+		ListNode temp = null;
+		ListNode current = new ListNode(0);
+		current.next = head;
+		head = current;
+		ListNode temp2 = null;
+
+	    while(end != head)
+	    {
+	        temp = head;
+	        for(current = head; current.next.next != end; current = current.next)
+	        {
+	            if(current.next.val > current.next.next.val)
+	            {
+	            	temp2 = current.next;
+	            	current.next = temp2.next;
+	            	temp2.next = current.next.next;
+	            	current.next.next = temp2;
+	            	temp = current.next.next;
+	            }
+	        }
+	        end = temp;
+	    }
+
+	    return head.next;
+
+	}	
 }

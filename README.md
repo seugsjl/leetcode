@@ -193,15 +193,15 @@ LeetCode
 |42|[Trapping Rain Water](https://oj.leetcode.com/problems/trapping-rain-water/)|[JAVA](./algorithms/Array/042.java)/[C++](./algorithms/Array/042.cpp) |Hard|Array
 |40|[First Missing Positive](https://oj.leetcode.com/problems/first-missing-positive/)| |Hard|
 |39|[Combination Sum II](https://oj.leetcode.com/problems/combination-sum-ii/)| |Medium|
-|38|[Combination Sum](https://oj.leetcode.com/problems/combination-sum/)| |Medium|
-|37|[Count and Say](https://oj.leetcode.com/problems/count-and-say/)| |Easy|
-|36|[Sudoku Solver](https://oj.leetcode.com/problems/sudoku-solver/)||Hard|
-|35|[Valid Sudoku](https://oj.leetcode.com/problems/valid-sudoku/)| |Easy|
-|34|[Search Insert Position](https://oj.leetcode.com/problems/search-insert-position/)| |Medium|
-|33|[Search for a Range](https://oj.leetcode.com/problems/search-for-a-range/)| |Medium|
-|32|[Search in Rotated Sorted Array](https://oj.leetcode.com/problems/search-in-rotated-sorted-array/)| |Hard|
-|31|[Longest Valid Parentheses](https://oj.leetcode.com/problems/longest-valid-parentheses/)| |Hard|
-|31|[Next Permutation](https://oj.leetcode.com/problems/next-permutation/)| |Medium|
+|39|[Combination Sum](https://oj.leetcode.com/problems/combination-sum/)| |Medium|
+|38|[Count and Say](https://oj.leetcode.com/problems/count-and-say/)| |Easy|
+|37|[Sudoku Solver](https://oj.leetcode.com/problems/sudoku-solver/)||Hard|
+|36|[Valid Sudoku](https://oj.leetcode.com/problems/valid-sudoku/)| |Easy|
+|35|[Search Insert Position](https://oj.leetcode.com/problems/search-insert-position/)| [JAVA](./algorithms/Array/035.java)|Medium|BSearch|
+|34|[Search for a Range](https://oj.leetcode.com/problems/search-for-a-range/)| [JAVA](./algorithms/Array/034.java)|Medium|BSearch|
+|33|[Search in Rotated Sorted Array](https://oj.leetcode.com/problems/search-in-rotated-sorted-array/)|[JAVA](./algorithms/Array/033.java) |Hard|Search|
+|32|[Longest Valid Parentheses](https://oj.leetcode.com/problems/longest-valid-parentheses/)|[JAVA](./algorithms/Dynamic/032.java)|Hard|DP|
+|31|[Next Permutation](https://oj.leetcode.com/problems/next-permutation/)| [JAVA](./algorithms/Math/031.java)/[C++](./algorithms/Math/031.cpp)|Medium|Math|
 |30|[Substring with Concatenation of All Words](https://oj.leetcode.com/problems/substring-with-concatenation-of-all-words/)|[JAVA](./algorithms/String/030.java)/[C++](./algorithms/String/030.cpp) |Hard|String|
 |29|[Divide Two Integers](https://oj.leetcode.com/problems/divide-two-integers/)| [JAVA](./algorithms/Math/029.java)|Medium|Math|
 |28|[Implement strStr()](https://oj.leetcode.com/problems/implement-strstr/)|[JAVA](./algorithms/String/028.java)/[C++](./algorithms/String/028.cpp) |Easy|String|
