@@ -106,8 +106,8 @@ LeetCode
 |128|[Longest Consecutive Sequence](https://oj.leetcode.com/problems/longest-consecutive-sequence/)||Hard|
 |127|[Word Ladder II](https://oj.leetcode.com/problems/word-ladder-ii/)|  |Hard|
 |126|[Word Ladder](https://oj.leetcode.com/problems/word-ladder/)||Medium|
-|125|[Valid Palindrome](https://oj.leetcode.com/problems/valid-palindrome/)|)|Easy|
-|124|[Binary Tree Maximum Path Sum](https://oj.leetcode.com/problems/binary-tree-maximum-path-sum/)| |Hard|
+|125|[Valid Palindrome](https://oj.leetcode.com/problems/valid-palindrome/)|[JAVA](./algorithms/String/125.java)|Easy|String|
+|124|[Binary Tree Maximum Path Sum](https://oj.leetcode.com/problems/binary-tree-maximum-path-sum/)|[JAVA](./algorithms/BinaryTree/124.java)|Hard|Tree|
 |123|[Best Time to Buy and Sell Stock III](https://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|[JAVA](./algorithms/Array/123.java)|Hard|Array|
 |122|[Best Time to Buy and Sell Stock II](https://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[JAVA](./algorithms/Array/122.java)|Medium|Array|
 |121|[Best Time to Buy and Sell Stock](https://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[JAVA](./algorithms/Array/121.java)|Medium|Array|
