@@ -108,9 +108,9 @@ LeetCode
 |126|[Word Ladder](https://oj.leetcode.com/problems/word-ladder/)||Medium|
 |125|[Valid Palindrome](https://oj.leetcode.com/problems/valid-palindrome/)|)|Easy|
 |124|[Binary Tree Maximum Path Sum](https://oj.leetcode.com/problems/binary-tree-maximum-path-sum/)| |Hard|
-|123|[Best Time to Buy and Sell Stock III](https://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)| |Hard|
-|122|[Best Time to Buy and Sell Stock II](https://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| |Medium|
-|121|[Best Time to Buy and Sell Stock](https://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock/)| |Medium|
+|123|[Best Time to Buy and Sell Stock III](https://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|[JAVA](./algorithms/Array/123.java)|Hard|Array|
+|122|[Best Time to Buy and Sell Stock II](https://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[JAVA](./algorithms/Array/122.java)|Medium|Array|
+|121|[Best Time to Buy and Sell Stock](https://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[JAVA](./algorithms/Array/121.java)|Medium|Array|
 |120|[Triangle](https://oj.leetcode.com/problems/triangle/)|[JAVA](./algorithms/Dynamic/120.java) |Medium|DP|
 |119|[Pascal's Triangle II](https://oj.leetcode.com/problems/pascals-triangle-ii/)| [JAVA](./algorithms/Array/119.java) |Easy|Array|
 |118|[Pascal's Triangle](https://oj.leetcode.com/problems/pascals-triangle/)|[JAVA](./algorithms/Array/118.java) |Easy|Array|
