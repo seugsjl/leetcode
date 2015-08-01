@@ -58,11 +58,11 @@ LeetCode
 |179|[Rotate Array](https://oj.leetcode.com/problems/rotate-array/)| |Easy||
 |178|[Best Time to Buy and Sell Stock IV](https://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)| |Hard|
 |177|[Repeated DNA Sequences](https://oj.leetcode.com/problems/repeated-dna-sequences/)| |Medium|
-|176|[Reverse Words in a String II](https://oj.leetcode.com/problems/reverse-words-in-a-string-ii/) &hearts; | |Medium|
-|175|[Largest Number](https://oj.leetcode.com/problems/largest-number/) | |Medium|
-|174|[Dungeon Game](https://oj.leetcode.com/problems/dungeon-game/) | |Hard|
-|173|[Binary Search Tree Iterator](https://oj.leetcode.com/problems/binary-search-tree-iterator/) | |Medium|
-|172|[Factorial Trailing Zeroes](https://oj.leetcode.com/problems/factorial-trailing-zeroes/) | |Easy|
+|180|[Reverse Words in a String II](https://oj.leetcode.com/problems/reverse-words-in-a-string-ii/) &hearts; | |Medium|
+|179|[Largest Number](https://oj.leetcode.com/problems/largest-number/) |[JAVA](./algorithms/Sort/179.java)|Medium|sort|
+|174|[Dungeon Game](https://oj.leetcode.com/problems/dungeon-game/) |[JAVA](./algorithms/Dynamic/174.cpp)|Hard|
+|173|[Binary Search Tree Iterator](https://oj.leetcode.com/problems/binary-search-tree-iterator/) |[JAVA](./algorithms/BinaryTree/173.java)|Medium|BST|
+|172|[Factorial Trailing Zeroes](https://oj.leetcode.com/problems/factorial-trailing-zeroes/) |[C++](./algorithms/Math/172.cpp)|Easy|
 |171|[Excel Sheet Column Number](https://oj.leetcode.com/problems/excel-sheet-column-number/) ||Easy|
 |170|[Two Sum III - Data structure design](https://oj.leetcode.com/problems/two-sum-iii-data-structure-design/) &hearts; | |Easy|
 |169|[Majority Element](https://oj.leetcode.com/problems/majority-element/) | |Easy|
