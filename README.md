@@ -8,7 +8,10 @@ LeetCode
 
 | # | Title | Solution | Difficulty |Tag|
 |---| ----- | -------- | ---------- |---|
-|238|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)| [JAVA](./algorithms/Array/239.java) | Hard | Array |
+|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[JAVA](./algorithms/HashMap/242.java)|Easy|HashMap|
+|241|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)||Medium||
+|240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)||Medium||
+|239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)| [JAVA](./algorithms/Array/239.java) |Hard|Array|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[JAVA](./algorithms/Array/238.java)|Medium|Array|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[JAVA](./algorithms/LinkedList/237.java)| Medium | List |
 |236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/palindrome-linked-list/)|[JAVA](./algorithms/BinaryTree/236.java)| Medium | Tree |
@@ -189,14 +192,14 @@ LeetCode
 |45|[Permutations](https://oj.leetcode.com/problems/permutations/)| |Medium|
 |44|[Jump Game II](https://oj.leetcode.com/problems/jump-game-ii/)||Hard|
 |43|[Wildcard Matching](https://oj.leetcode.com/problems/wildcard-matching/)| |Hard|
-|42|[Multiply Strings](https://oj.leetcode.com/problems/multiply-strings/)| |Medium|
+|43|[Multiply Strings](https://oj.leetcode.com/problems/multiply-strings/)| |Medium|
 |42|[Trapping Rain Water](https://oj.leetcode.com/problems/trapping-rain-water/)|[JAVA](./algorithms/Array/042.java)/[C++](./algorithms/Array/042.cpp) |Hard|Array
-|40|[First Missing Positive](https://oj.leetcode.com/problems/first-missing-positive/)| |Hard|
-|39|[Combination Sum II](https://oj.leetcode.com/problems/combination-sum-ii/)| |Medium|
-|39|[Combination Sum](https://oj.leetcode.com/problems/combination-sum/)| |Medium|
-|38|[Count and Say](https://oj.leetcode.com/problems/count-and-say/)| |Easy|
-|37|[Sudoku Solver](https://oj.leetcode.com/problems/sudoku-solver/)||Hard|
-|36|[Valid Sudoku](https://oj.leetcode.com/problems/valid-sudoku/)| |Easy|
+|41|[First Missing Positive](https://oj.leetcode.com/problems/first-missing-positive/)|[JAVA](./algorithms/Array/041.java)|Hard|Array|
+|40|[Combination Sum II](https://oj.leetcode.com/problems/combination-sum-ii/)|[JAVA](./algorithms/Backtracking/040.java)|Medium|BT|
+|39|[Combination Sum](https://oj.leetcode.com/problems/combination-sum/)|[JAVA](./algorithms/Backtracking/039.java)|Medium|BT|
+|38|[Count and Say](https://oj.leetcode.com/problems/count-and-say/)|[JAVA](./algorithms/String/038.java)|Easy|String|
+|37|[Sudoku Solver](https://oj.leetcode.com/problems/sudoku-solver/)|[JAVA](./algorithms/Backtracking/037.java)|Hard|BT|
+|36|[Valid Sudoku](https://oj.leetcode.com/problems/valid-sudoku/)|[JAVA](./algorithms/Backtracking/036.java)|Easy|Array|
 |35|[Search Insert Position](https://oj.leetcode.com/problems/search-insert-position/)| [JAVA](./algorithms/Array/035.java)|Medium|BSearch|
 |34|[Search for a Range](https://oj.leetcode.com/problems/search-for-a-range/)| [JAVA](./algorithms/Array/034.java)|Medium|BSearch|
 |33|[Search in Rotated Sorted Array](https://oj.leetcode.com/problems/search-in-rotated-sorted-array/)|[JAVA](./algorithms/Array/033.java) |Hard|Search|
