@@ -156,13 +156,13 @@ LeetCode
 |78|[Subsets](https://oj.leetcode.com/problems/subsets/)| |Medium|
 |77|[Combinations](https://oj.leetcode.com/problems/combinations/)| |Medium|
 |76|[Minimum Window Substring](https://oj.leetcode.com/problems/minimum-window-substring/)| |Hard|
-|75|[Sort Colors](https://oj.leetcode.com/problems/sort-colors/)| |Medium|
-|74|[Search a 2D Matrix](https://oj.leetcode.com/problems/search-a-2d-matrix/)| |Medium|
-|73|[Set Matrix Zeroes](https://oj.leetcode.com/problems/set-matrix-zeroes/)| |Medium|
-|72|[Edit Distance](https://oj.leetcode.com/problems/edit-distance/)| |Hard|
-|71|[Simplify Path](https://oj.leetcode.com/problems/simplify-path/)| |Medium|
-|70|[Climbing Stairs](https://oj.leetcode.com/problems/climbing-stairs/)| |Easy|
-|69|[Sqrt(x)](https://oj.leetcode.com/problems/sqrtx/)| [C++](./algorithms/sqrt/sqrt.cpp)|Medium|
+|75|[Sort Colors](https://oj.leetcode.com/problems/sort-colors/)|[JAVA](./algorithms/Array/075.java)|Medium|
+|74|[Search a 2D Matrix](https://oj.leetcode.com/problems/search-a-2d-matrix/)|[JAVA](./algorithms/Array/074.java)|Medium|Search|
+|73|[Set Matrix Zeroes](https://oj.leetcode.com/problems/set-matrix-zeroes/)|[JAVA](./algorithms/Array/073.java)|Medium|Array|
+|72|[Edit Distance](https://oj.leetcode.com/problems/edit-distance/)|[JAVA](./algorithms/Dynamic/072.java)|Hard|DP|
+|71|[Simplify Path](https://oj.leetcode.com/problems/simplify-path/)|[JAVA](./algorithms/Stack/071.java)|Medium|Stack|
+|70|[Climbing Stairs](https://oj.leetcode.com/problems/climbing-stairs/)|[JAVA](./algorithms/Dynamic/070.java)|Easy|DP|
+|69|[Sqrt(x)](https://oj.leetcode.com/problems/sqrtx/)| [JAVA](./algorithms/Math/069.java)|Medium|Math|
 |68|[Text Justification](https://oj.leetcode.com/problems/text-justification/)| |Hard|
 |67|[Plus One](https://oj.leetcode.com/problems/plus-one/)||Easy|
 |66|[Valid Number](https://oj.leetcode.com/problems/valid-number/)| |Easy|
