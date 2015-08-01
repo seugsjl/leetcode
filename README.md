@@ -155,10 +155,10 @@ LeetCode
 |82|[Remove Duplicates from Sorted List](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list/)|[JAVA](./algorithms/LinkedList/082.java) | Easy | List |
 |81|[Search in Rotated Sorted Array II](https://oj.leetcode.com/problems/search-in-rotated-sorted-array-ii/)| |Medium|
 |80|[Remove Duplicates from Sorted Array II](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)||Medium|
-|79|[Word Search](https://oj.leetcode.com/problems/word-search/)| [JAVA](./algorithms/Array/079.java)|Medium|BST|
-|78|[Subsets](https://oj.leetcode.com/problems/subsets/)| |Medium|
-|77|[Combinations](https://oj.leetcode.com/problems/combinations/)| |Medium|
-|76|[Minimum Window Substring](https://oj.leetcode.com/problems/minimum-window-substring/)| |Hard|
+|79|[Word Search](https://oj.leetcode.com/problems/word-search/)|[JAVA](./algorithms/Array/079.java)|Medium|BST|
+|78|[Subsets](https://oj.leetcode.com/problems/subsets/)|[JAVA](./algorithms/Math/078.java)|Medium|Math|
+|77|[Combinations](https://oj.leetcode.com/problems/combinations/)|[JAVA](./algorithms/Math/077.java)/[C++](./algorithms/Math/077.cpp)|Medium|
+|76|[Minimum Window Substring](https://oj.leetcode.com/problems/minimum-window-substring/)|[JAVA](./algorithms/String/076.java)|Hard|String|
 |75|[Sort Colors](https://oj.leetcode.com/problems/sort-colors/)|[JAVA](./algorithms/Array/075.java)|Medium|
 |74|[Search a 2D Matrix](https://oj.leetcode.com/problems/search-a-2d-matrix/)|[JAVA](./algorithms/Array/074.java)|Medium|Search|
 |73|[Set Matrix Zeroes](https://oj.leetcode.com/problems/set-matrix-zeroes/)|[JAVA](./algorithms/Array/073.java)|Medium|Array|
