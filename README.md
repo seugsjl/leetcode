@@ -70,11 +70,11 @@ LeetCode
 |167|[Two Sum II - Input array is sorted](https://oj.leetcode.com/problems/two-sum-ii-input-array-is-sorted/) &hearts; | |Medium|
 |166|[Fraction to Recurring Decimal](https://oj.leetcode.com/problems/fraction-to-recurring-decimal/) | |Medium|
 |165|[Compare Version Numbers](https://oj.leetcode.com/problems/compare-version-numbers/) ||Easy|
-|164|[Maximum Gap](https://oj.leetcode.com/problems/maximum-gap/) | |Hard|
+|164|[Maximum Gap](https://oj.leetcode.com/problems/maximum-gap/) |[C++](./algorithms/Array/164.cpp)|Hard|
 |163|[Missing Ranges](https://oj.leetcode.com/problems/missing-ranges/) &hearts; ||Medium||
-|162|[Find Peak Element](https://oj.leetcode.com/problems/find-peak-element/) | |Medium|
+|162|[Find Peak Element](https://oj.leetcode.com/problems/find-peak-element/) |[JAVA](./algorithms/Array/162.java)|Medium|Array|
 |161|[One Edit Distance](https://oj.leetcode.com/problems/one-edit-distance/)&hearts; ||Medium|
-|160|[Intersection of Two Linked Lists](https://oj.leetcode.com/problems/intersection-of-two-linked-lists/) | |Easy|
+|160|[Intersection of Two Linked Lists](https://oj.leetcode.com/problems/intersection-of-two-linked-lists/) |[JAVA](./algorithms/LinkedList/160.java)|Easy|
 |159|[Longest Substring with At Most Two Distinct Characters](https://oj.leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) &hearts; | |Hard|
 |158|[Read N Characters Given Read4 II - Call multiple times](https://oj.leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/) &hearts; | |Hard|
 |157|[Read N Characters Given Read4](https://oj.leetcode.com/problems/read-n-characters-given-read4/) &hearts; | |Easy||
