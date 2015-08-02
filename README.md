@@ -92,8 +92,8 @@ LeetCode
 |145|[Binary Tree Postorder Traversal](https://oj.leetcode.com/problems/binary-tree-postorder-traversal/)| [JAVA](./algorithms/BinaryTree/BinaryTreePostorderTraversal.java)|Hard|Tree|
 |144|[Binary Tree Preorder Traversal](https://oj.leetcode.com/problems/binary-tree-preorder-traversal/)| [JAVA](./algorithms/BinaryTree/BinaryTreePreorderTraversal.java)|Medium|Tree|
 |143|[Reorder List](https://oj.leetcode.com/problems/reorder-list/)|[JAVA](./algorithms/LinkedList/143.java)|Medium|
-|142|[Linked List Cycle II](https://oj.leetcode.com/problems/linked-list-cycle-ii/)| |Medium|
-|141|[Linked List Cycle](https://oj.leetcode.com/problems/linked-list-cycle/)||Medium|
+|142|[Linked List Cycle II](https://oj.leetcode.com/problems/linked-list-cycle-ii/)|[JAVA](./algorithms/LinkedList/142.java)|Medium|List|
+|141|[Linked List Cycle](https://oj.leetcode.com/problems/linked-list-cycle/)|[JAVA](./algorithms/LinkedList/141.java)|Medium|List|
 |140|[Word Break II](https://oj.leetcode.com/problems/word-break-ii/)| [JAVA](./algorithms/Array/140.java)|Hard|DP/BFS|
 |139|[Word Break](https://oj.leetcode.com/problems/word-break/)| [JAVA](./algorithms/Array/139.java) |Medium|DP|
 |138|[Copy List with Random Pointer](https://oj.leetcode.com/problems/copy-list-with-random-pointer/)| |Hard|
@@ -185,14 +185,14 @@ LeetCode
 |52|[Maximum Subarray](https://oj.leetcode.com/problems/maximum-subarray/)| |Medium|
 |51|[N-Queens II](https://oj.leetcode.com/problems/n-queens-ii/)||Hard|
 |50|[N-Queens](https://oj.leetcode.com/problems/n-queens/)| |Hard|
-|49|["Pow(x, n)"](https://oj.leetcode.com/problems/powx-n/)| |Medium|
-|48|[Anagrams](https://oj.leetcode.com/problems/anagrams/)| |Medium|
-|47|[Rotate Image](https://oj.leetcode.com/problems/rotate-image/)| |Medium|
-|46|[Permutations II](https://oj.leetcode.com/problems/permutations-ii/)| |Hard|
-|45|[Permutations](https://oj.leetcode.com/problems/permutations/)| |Medium|
-|44|[Jump Game II](https://oj.leetcode.com/problems/jump-game-ii/)||Hard|
-|43|[Wildcard Matching](https://oj.leetcode.com/problems/wildcard-matching/)| |Hard|
-|43|[Multiply Strings](https://oj.leetcode.com/problems/multiply-strings/)| |Medium|
+|50|["Pow(x, n)"](https://oj.leetcode.com/problems/powx-n/)|[JAVA](./algorithms/Math/050.java)|Medium|
+|49|[Anagrams](https://oj.leetcode.com/problems/anagrams/)|[JAVA](./algorithms/String/049.java)|Medium|String|
+|48|[Rotate Image](https://oj.leetcode.com/problems/rotate-image/)|[JAVA](./algorithms/Array/048.java)/[C++](./algorithms/Array/048.cpp)|Medium|Array|
+|47|[Permutations II](https://oj.leetcode.com/problems/permutations-ii/)|[JAVA](./algorithms/Dynamic/047.java)|Hard|Math|
+|46|[Permutations](https://oj.leetcode.com/problems/permutations/)|[JAVA](./algorithms/Dynamic/046.java)|Medium|Math|
+|45|[Jump Game II](https://oj.leetcode.com/problems/jump-game-ii/)|[JAVA](./algorithms/Dynamic/045.java)|Hard|DP|
+|44|[Wildcard Matching](https://oj.leetcode.com/problems/wildcard-matching/)|[JAVA](./algorithms/Backtracking/044.java)|Hard|BT|
+|43|[Multiply Strings](https://oj.leetcode.com/problems/multiply-strings/)|[JAVA](./algorithms/Math/043.java)|Medium|Math|
 |42|[Trapping Rain Water](https://oj.leetcode.com/problems/trapping-rain-water/)|[JAVA](./algorithms/Array/042.java)/[C++](./algorithms/Array/042.cpp) |Hard|Array
 |41|[First Missing Positive](https://oj.leetcode.com/problems/first-missing-positive/)|[JAVA](./algorithms/Array/041.java)|Hard|Array|
 |40|[Combination Sum II](https://oj.leetcode.com/problems/combination-sum-ii/)|[JAVA](./algorithms/Backtracking/040.java)|Medium|BT|
