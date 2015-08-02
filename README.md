@@ -174,14 +174,14 @@ LeetCode
 |63|[Minimum Path Sum](https://oj.leetcode.com/problems/minimum-path-sum/)||Medium|
 |62|[Unique Paths II](https://oj.leetcode.com/problems/unique-paths-ii/)| |Medium|
 |61|[Unique Paths](https://oj.leetcode.com/problems/unique-paths/)| |Medium|
-|61|[Rotate List](https://oj.leetcode.com/problems/rotate-list/)| [C++](./algorithms/LinkedList/061.cpp)|Medium|
-|60|[Permutation Sequence](https://oj.leetcode.com/problems/permutation-sequence/)||Medium|
-|59|[Spiral Matrix II](https://oj.leetcode.com/problems/spiral-matrix-ii/)| |Medium|
-|58|[Length of Last Word](https://oj.leetcode.com/problems/length-of-last-word/)||Easy|
-|57|[Insert Interval](https://oj.leetcode.com/problems/insert-interval/)||Hard|
-|56|[Merge Intervals](https://oj.leetcode.com/problems/merge-intervals/)| |Hard|
-|55|[Jump Game](https://oj.leetcode.com/problems/jump-game/)|[JAVA](./algorithms/Array/055.java)|Medium|Array|
-|54|[Spiral Matrix](https://oj.leetcode.com/problems/spiral-matrix/)|[JAVA](./algorithms/Array/054.java)|Medium|Array|
+|61|[Rotate List](https://oj.leetcode.com/problems/rotate-list/)| [C++](./algorithms/LinkedList/061.cpp)|Medium|LinkedList|
+|60|[Permutation Sequence](https://oj.leetcode.com/problems/permutation-sequence/)|[JAVA](./algorithms/Math/060.java)|Medium|Math|
+|59|[Spiral Matrix II](https://oj.leetcode.com/problems/spiral-matrix-ii/)|[JAVA](./algorithms/Array/059.java)|Medium|Array|
+|58|[Length of Last Word](https://oj.leetcode.com/problems/length-of-last-word/)|[JAVA](./algorithms/String/058.java)|Easy|String|
+|57|[Insert Interval](https://oj.leetcode.com/problems/insert-interval/)|[JAVA](./algorithms/Array/057.java)|Hard|Array|
+|56|[Merge Intervals](https://oj.leetcode.com/problems/merge-intervals/)|[JAVA](./algorithms/Sort/056.java)|Hard|Sort|
+|55|[Jump Game](https://oj.leetcode.com/problems/jump-game/)|[JAVA](./algorithms/Array/055.java)|Medium|Array|Array|
+|54|[Spiral Matrix](https://oj.leetcode.com/problems/spiral-matrix/)|[JAVA](./algorithms/Array/054.java)|Medium|Array|Array|
 |53|[Maximum Subarray](https://oj.leetcode.com/problems/maximum-subarray/)|[JAVA](./algorithms/Dynamic/053.java)|Medium|DP|
 |52|[N-Queens II](https://oj.leetcode.com/problems/n-queens-ii/)|[JAVA](./algorithms/Backtracking/052.java)|Hard|BT|
 |51|[N-Queens](https://oj.leetcode.com/problems/n-queens/)|[JAVA](./algorithms/Backtracking/051.java)|Hard|BT|
