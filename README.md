@@ -175,16 +175,16 @@ LeetCode
 |62|[Unique Paths II](https://oj.leetcode.com/problems/unique-paths-ii/)| |Medium|
 |61|[Unique Paths](https://oj.leetcode.com/problems/unique-paths/)| |Medium|
 |61|[Rotate List](https://oj.leetcode.com/problems/rotate-list/)| [C++](./algorithms/LinkedList/061.cpp)|Medium|
-|59|[Permutation Sequence](https://oj.leetcode.com/problems/permutation-sequence/)||Medium|
-|58|[Spiral Matrix II](https://oj.leetcode.com/problems/spiral-matrix-ii/)| |Medium|
-|57|[Length of Last Word](https://oj.leetcode.com/problems/length-of-last-word/)||Easy|
-|56|[Insert Interval](https://oj.leetcode.com/problems/insert-interval/)||Hard|
-|55|[Merge Intervals](https://oj.leetcode.com/problems/merge-intervals/)| |Hard|
-|54|[Jump Game](https://oj.leetcode.com/problems/jump-game/)| |Medium|
-|53|[Spiral Matrix](https://oj.leetcode.com/problems/spiral-matrix/)| |Medium|
-|52|[Maximum Subarray](https://oj.leetcode.com/problems/maximum-subarray/)| |Medium|
-|51|[N-Queens II](https://oj.leetcode.com/problems/n-queens-ii/)||Hard|
-|50|[N-Queens](https://oj.leetcode.com/problems/n-queens/)| |Hard|
+|60|[Permutation Sequence](https://oj.leetcode.com/problems/permutation-sequence/)||Medium|
+|59|[Spiral Matrix II](https://oj.leetcode.com/problems/spiral-matrix-ii/)| |Medium|
+|58|[Length of Last Word](https://oj.leetcode.com/problems/length-of-last-word/)||Easy|
+|57|[Insert Interval](https://oj.leetcode.com/problems/insert-interval/)||Hard|
+|56|[Merge Intervals](https://oj.leetcode.com/problems/merge-intervals/)| |Hard|
+|55|[Jump Game](https://oj.leetcode.com/problems/jump-game/)|[JAVA](./algorithms/Array/055.java)|Medium|Array|
+|54|[Spiral Matrix](https://oj.leetcode.com/problems/spiral-matrix/)|[JAVA](./algorithms/Array/054.java)|Medium|Array|
+|53|[Maximum Subarray](https://oj.leetcode.com/problems/maximum-subarray/)|[JAVA](./algorithms/Dynamic/053.java)|Medium|DP|
+|52|[N-Queens II](https://oj.leetcode.com/problems/n-queens-ii/)|[JAVA](./algorithms/Backtracking/052.java)|Hard|BT|
+|51|[N-Queens](https://oj.leetcode.com/problems/n-queens/)|[JAVA](./algorithms/Backtracking/051.java)|Hard|BT|
 |50|["Pow(x, n)"](https://oj.leetcode.com/problems/powx-n/)|[JAVA](./algorithms/Math/050.java)|Medium|
 |49|[Anagrams](https://oj.leetcode.com/problems/anagrams/)|[JAVA](./algorithms/String/049.java)|Medium|String|
 |48|[Rotate Image](https://oj.leetcode.com/problems/rotate-image/)|[JAVA](./algorithms/Array/048.java)/[C++](./algorithms/Array/048.cpp)|Medium|Array|

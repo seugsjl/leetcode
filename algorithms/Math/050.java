@@ -1,7 +1,5 @@
 public class Solution {
     public double myPow(double x, int n) {
-        // Start typing your C/C++ solution below
-        // DO NOT write int main() function
         if(n<0)
 		{
 			if(n==Integer.MIN_VALUE)
