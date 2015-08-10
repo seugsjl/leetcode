@@ -166,14 +166,13 @@ LeetCode
 |71|[Simplify Path](https://oj.leetcode.com/problems/simplify-path/)|[JAVA](./algorithms/Stack/071.java)|Medium|Stack|
 |70|[Climbing Stairs](https://oj.leetcode.com/problems/climbing-stairs/)|[JAVA](./algorithms/Dynamic/070.java)|Easy|DP|
 |69|[Sqrt(x)](https://oj.leetcode.com/problems/sqrtx/)| [JAVA](./algorithms/Math/069.java)|Medium|Math|
-|68|[Text Justification](https://oj.leetcode.com/problems/text-justification/)| |Hard|
-|67|[Plus One](https://oj.leetcode.com/problems/plus-one/)||Easy|
-|66|[Valid Number](https://oj.leetcode.com/problems/valid-number/)| |Easy|
-|65|[Add Binary](https://oj.leetcode.com/problems/add-binary/)| |Easy|
-|64|[Merge Two Sorted Lists](https://oj.leetcode.com/problems/merge-two-sorted-lists/)| |Easy|
-|63|[Minimum Path Sum](https://oj.leetcode.com/problems/minimum-path-sum/)||Medium|
-|62|[Unique Paths II](https://oj.leetcode.com/problems/unique-paths-ii/)| |Medium|
-|61|[Unique Paths](https://oj.leetcode.com/problems/unique-paths/)| |Medium|
+|68|[Text Justification](https://oj.leetcode.com/problems/text-justification/)|[JAVA](./algorithms/String/068.java)|Hard|String|
+|67|[Add Binary](https://oj.leetcode.com/problems/add-binary/)|[JAVA](./algorithms/Math/067.java)|Easy|Math|
+|66|[Plus One](https://oj.leetcode.com/problems/plus-one/)|[JAVA](./algorithms/Array/066.java)|Easy|Array|
+|65|[Valid Number](https://oj.leetcode.com/problems/valid-number/)|[JAVA](./algorithms/Backtracking/065)|Hard|Backtracking|
+|64|[Minimum Path Sum](https://oj.leetcode.com/problems/minimum-path-sum/)|[JAVA](./algorithms/Dynamic/064.java)|Medium|DP|
+|63|[Unique Paths II](https://oj.leetcode.com/problems/unique-paths-ii/)|[JAVA](./algorithms/Dynamic/063.java)|Medium|DP|
+|62|[Unique Paths](https://oj.leetcode.com/problems/unique-paths/)|[JAVA](./algorithms/Dynamic/062.java)|Medium|DP|
 |61|[Rotate List](https://oj.leetcode.com/problems/rotate-list/)| [C++](./algorithms/LinkedList/061.cpp)|Medium|LinkedList|
 |60|[Permutation Sequence](https://oj.leetcode.com/problems/permutation-sequence/)|[JAVA](./algorithms/Math/060.java)|Medium|Math|
 |59|[Spiral Matrix II](https://oj.leetcode.com/problems/spiral-matrix-ii/)|[JAVA](./algorithms/Array/059.java)|Medium|Array|
