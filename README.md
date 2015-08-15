@@ -153,8 +153,8 @@ LeetCode
 |84|[Largest Rectangle in Histogram](https://oj.leetcode.com/problems/largest-rectangle-in-histogram/)|[JAVA](./algorithms/Stack/084.java)|Hard|Stack|
 |83|[Remove Duplicates from Sorted List II](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)| [JAVA](./algorithms/LinkedList/082.java)| Medium | List |
 |82|[Remove Duplicates from Sorted List](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list/)|[JAVA](./algorithms/LinkedList/082.java) | Easy | List |
-|81|[Search in Rotated Sorted Array II](https://oj.leetcode.com/problems/search-in-rotated-sorted-array-ii/)| |Medium|
-|80|[Remove Duplicates from Sorted Array II](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)||Medium|
+|81|[Search in Rotated Sorted Array II](https://oj.leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[JAVA](./algorithms/Array/081.java)|Medium|Search|
+|80|[Remove Duplicates from Sorted Array II](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[JAVA](./algorithms/Array/080.java)|Medium|Array|
 |79|[Word Search](https://oj.leetcode.com/problems/word-search/)|[JAVA](./algorithms/Array/079.java)|Medium|BST|
 |78|[Subsets](https://oj.leetcode.com/problems/subsets/)|[JAVA](./algorithms/Math/078.java)|Medium|Math|
 |77|[Combinations](https://oj.leetcode.com/problems/combinations/)|[JAVA](./algorithms/Math/077.java)/[C++](./algorithms/Math/077.cpp)|Medium|
