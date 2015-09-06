@@ -122,7 +122,7 @@ LeetCode
 |115|[Distinct Subsequences](https://oj.leetcode.com/problems/distinct-subsequences/)|[JAVA](./algorithms/Dynamic/115.java)|Hard|DP|
 |114|[Flatten Binary Tree to Linked List](https://oj.leetcode.com/problems/flatten-binary-tree-to-linked-list/)| [C++](./algorithms/BinaryTree/BinaryTreeFlattentoLinkedList.java)|Medium|
 |113|[Path Sum II](https://oj.leetcode.com/problems/path-sum-ii/)| [JAVA](./algorithms/BinaryTree/PathSumII.java)|Medium|Tree|
-|112|[Path Sum](https://oj.leetcode.com/problems/path-sum/)| [JAVA](./algorithms/BinaryTree/PsathSum.java)/[C++](./algorithms/BinaryTree/PathSum.cpp)|Easy|Tree|
+|112|[Path Sum](https://oj.leetcode.com/problems/path-sum/)| [JAVA](./algorithms/BinaryTree/PathSum.java)/[C++](./algorithms/BinaryTree/PathSum.cpp)|Easy|Tree|
 |111|[Minimum Depth of Binary Tree](https://oj.leetcode.com/problems/minimum-depth-of-binary-tree/)| [JAVA](./algorithms/BinaryTree/BinaryTreeMinimumDepth.java)|Easy|Tree|
 |110|[Balanced Binary Tree](https://oj.leetcode.com/problems/balanced-binary-tree/)| [JAVA](./algorithms/BinaryTree/BinaryTreeBalanced.java)|Easy|
 |109|[Convert Sorted List to Binary Search Tree](https://oj.leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)||Medium|
